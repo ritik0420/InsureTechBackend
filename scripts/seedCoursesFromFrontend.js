@@ -8,15 +8,7 @@ const vm = require('vm');
 
 dotenv.config({ path: path.join(__dirname, '..', '.env') });
 
-const frontendCoursesDataFile = path.join(
-  __dirname,
-  '..',
-  '..',
-  'frontend-InsureTech',
-  'insureTech',
-  'data',
-  'courses.js'
-);
+const coursesDataFile = path.join(__dirname, '..', 'data', 'courses.js');
 
 const loadCoursesObject = (sourceText) => {
   const transformed = sourceText
@@ -31,32 +23,20 @@ const loadCoursesObject = (sourceText) => {
 
 const parseCourses = (coursesObject) => {
   return Object.values(coursesObject).map((course) => ({
-    title: course.title,
-    slug: course.slug,
-    description:
-      course.heroDescription ||
-      course.callToAction ||
-      'Course details available soon',
-    image: course.heroBannerImage || course.toolsBannerImage || '/images/default-course.jpg',
-    category: course.category || 'Other',
-    mode: course.mode || 'Online',
-    duration: course.duration || 'Self paced',
-    heroDescription: course.heroDescription || '',
-    highlights: course.highlights || [],
-    modules: course.modules || [],
-    faqs: course.faqs || [],
+    ...course,
+    image: course.heroBannerImage || course.toolsBannerImage || course.image || '/images/default-course.jpg',
   }));
 };
 
 const seedCourses = async () => {
   await connectDB();
 
-  const sourceText = fs.readFileSync(frontendCoursesDataFile, 'utf-8');
+  const sourceText = fs.readFileSync(coursesDataFile, 'utf-8');
   const coursesObject = loadCoursesObject(sourceText);
   const parsedCourses = parseCourses(coursesObject);
 
   if (!parsedCourses.length) {
-    throw new Error('No courses parsed from frontend data');
+    throw new Error('No courses parsed from data/courses.js');
   }
 
   for (const course of parsedCourses) {
@@ -67,7 +47,7 @@ const seedCourses = async () => {
     );
   }
 
-  console.log(`Seeded ${parsedCourses.length} courses from frontend static data.`);
+  console.log(`Seeded ${parsedCourses.length} courses from backend data/courses.js`);
 };
 
 seedCourses()
