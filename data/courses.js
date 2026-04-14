@@ -445,7 +445,7 @@ export const courses = {
     title: 'Microsoft Azure Infrastructure Solution Training',
     category: 'Cloud Computing',
     heroDescription:
-      'This programme is structured across three progressive tiers (Beginner, Intermediate, Advanced) enabling students with no prior cloud experience to reach full proficiency in administering and architecting Azure infrastructure solutions. Every module is reinforced with guided lab exercises in a live Azure environment, and the programme culminates in an end-to-end capstone project aligned to real enterprise scenarios. Fully aligned to the AZ-104 (Azure Administrator) and AZ-305 (Azure Infrastructure Solutions) certifications.',
+      'Microsoft Azure · AZ-104 / AZ-305 · Scratch to Advanced — Azure Infrastructure Solution Training. A comprehensive, structured training programme that takes you from cloud computing fundamentals all the way to designing, deploying, securing, and governing enterprise-grade infrastructure solutions on Microsoft Azure — aligned to the AZ-104 (Azure Administrator) and AZ-305 (Azure Infrastructure Solutions) certifications. Duration: 35–50 Hours. Exams: AZ-104 / AZ-305. Mode: Live Online / 1-to-1 / Corporate. Level: Scratch to Advanced. This programme is structured across three progressive tiers (Beginner, Intermediate, Advanced), enabling students with no prior cloud experience to reach full proficiency. Every module includes guided lab exercises in a live Azure environment and culminates in an end-to-end capstone project aligned to real enterprise scenarios.',
     heroBannerImage: '/course-banners/azure-infrastructure-solution.png',
     callToAction: 'Request Callback',
     highlights: [
@@ -3567,85 +3567,237 @@ export const courses = {
     slug: 'microsoft-azure-power-bi-training',
     title: 'Microsoft Azure Power BI Training',
     category: 'Data Science',
-    heroDescription: 'Microsoft Azure Power BI, a cornerstone of the Microsoft Power Platform, is a comprehensive business analytics tool that empowers organisations to harness the potential of their data. Learn how to link data from diverse sources, organise, transform, and clean data, and create interactive dashboards, charts, and reports. 30 Hour Live Virtual Training.',
+    heroDescription:
+      'Master Microsoft Power BI from data connection to enterprise dashboards — Power Query, DAX, Azure integration, Fabric, and advanced analytics. Fully aligned with Microsoft PL-300 Power BI Data Analyst Associate. Live instructor-led · 50+ hours · 10 modules · 8+ labs & projects · Beginner to Advanced.',
     heroBannerImage: '/course-banners/azure-power-bi-training.png',
-    callToAction: 'Transform raw data into valuable insights',
+    callToAction: 'Request Callback',
     highlights: [
-      '30 Hour Live Virtual Training',
-      'Data integration, modelling, and visualisation',
-      'Interactive dashboards, charts, and reports',
-      'Flexible scheduling and one-on-one lessons',
-      '24x7 Learning assistance and support',
-      'Industry-based knowledge'
+      'PL-300 Power BI Data Analyst Associate exam-aligned syllabus',
+      '50+ hours · 10 modules · 8+ hands-on dashboards & real projects',
+      'Power Query (M), DAX, data modeling, Power BI Service, RLS & governance',
+      'Azure Synapse, Data Lake, Fabric, streaming — enterprise-ready BI',
+      'Live instructor-led · EST, GMT & IST batches · lifetime access to recordings & PBIX files',
+      'Career support, mock exams, Copilot & AI Insights — 2025-ready skills'
     ],
     description: {
       whyChooseTitle: 'Why choose Microsoft Azure Power BI Training from InsureTech Skills?',
-      overview: 'Learn how to link data from diverse sources with Power BI, and then use this tool to improve your work by organising, transforming, and cleaning data to ensure consistency and accuracy. One of the other major highlights is data modelling, which is developing data models to establish links between various data items. You\'ll learn about data visualisation through interactive dashboards, charts, and reports.',
-      whyChoose: 'Mastering Microsoft Azure Power BI can significantly enhance your career prospects as a data analyst, business intelligence professional, or data scientist. It equips you with the skills to transform raw data into valuable insights, make data-driven decisions, and create interactive visualisations that effectively communicate complex information.',
+      overview:
+        'Microsoft Power BI is a leading business intelligence and visualization platform — used by over 250,000 organizations globally, including Fortune 500 companies across the USA, Canada, and Europe. Combined with Microsoft Azure, Power BI enables real-time enterprise dashboards that support high-stakes decisions.\n\nThis training takes you from connecting data sources through advanced DAX, Azure Synapse and Fabric integration, to deploying enterprise-grade BI. It suits business analysts, data professionals, and developers seeking practical skills employers hire for. The programme is aligned with the Microsoft PL-300 Power BI Data Analyst Associate certification.',
+      whyChoose:
+        'Expert-led live sessions (not pre-recorded only), finance and retail–style datasets for labs, and a capstone enterprise BI project. You also prepare for PL-300 with mock tests and domain-aligned review while building a portfolio of PBIX work.',
       keyFeatures: [
-        '30 Hour Live Virtual Training',
-        'Data integration from diverse sources',
-        'Data modelling and visualisation',
-        'Dashboard design and reporting',
-        'DAX and Power BI Services'
+        'Full PL-300 domain coverage: prepare data, model data, visualize & analyze, deploy & maintain',
+        '8+ real dashboards and projects — sales, HR, finance KPIs, Azure-integrated BI',
+        'Microsoft certification prep with mock assessments and study guidance',
+        'Power BI Copilot, AI Insights, and Fabric-ready skills',
+        'Row-level security, governance, deployment pipelines, and admin concepts'
       ],
       whatYouWillLearn: [
-        'Working with advanced Power BI',
-        'Enhanced decision making skills with accurate data interpretation',
-        'Increased efficiency in terms of data utilisation',
-        'Communicate complex data to others in an easy understandable way',
-        'Career Advancement when the course is completed',
-        'Data modelling to establish links between various data items',
-        'Data visualisation through interactive dashboards, charts, and reports'
+        'Connect to 100+ data sources — SQL, Excel, Azure, APIs, SharePoint',
+        'Transform and clean data using Power Query (M language)',
+        'Build star schema data models and manage relationships',
+        'Write DAX — calculated columns, measures, KPIs, time intelligence',
+        'Create interactive reports and dashboards in Power BI Desktop',
+        'Publish and share using Power BI Service (cloud)',
+        'Integrate Power BI with Azure Synapse, Data Lake, and Microsoft Fabric',
+        'Row-Level Security (RLS) and data governance best practices',
+        'Real-time dashboards with Azure Stream Analytics and Kafka concepts',
+        'PL-300 Power BI Data Analyst Associate exam preparation'
       ],
       prerequisites: [
-        'All you need is a computer with Windows',
-        'Download the free Power BI Desktop software (we\'ll guide you through setup)',
-        'No prior experience required; basic understanding of data concepts and familiarity with Microsoft Excel is beneficial'
+        'Basic Excel and SQL knowledge is helpful but not mandatory',
+        'No prior Power BI experience required — starts from fundamentals to advanced enterprise topics',
+        'Windows 10+ required for Power BI Desktop (Windows-only); Mac users can use VM or browser-first workflows with our setup help',
+        'Minimum 4GB RAM (8GB recommended); free Power BI Desktop; stable internet for Service and live classes'
       ],
       whoCanJoin: [
-        'Data Analytics and Business Intelligence Professionals',
-        'IT Professionals',
-        'Anyone interested in data visualisation and analytics'
+        'Business analysts, data analysts, financial analysts, and IT professionals',
+        'Project managers and anyone building dashboards for data-driven decisions',
+        'Non-technical professionals from finance, HR, marketing, and operations — no coding background required'
       ],
-      distinctness: 'Our curriculum is regularly updated to align with the latest advancements in cloud computing and Power BI. You\'ll learn about new features, best practices, and real-world applications.'
+      distinctness:
+        'PL-300–aligned path with deep DAX and modeling, Azure and Fabric integration, streaming and real-time patterns, governance and admin, plus Copilot and AI visuals — packaged with 8+ portfolio projects and certification-focused mock exams.'
     },
     modules: [
-      { title: '1. Introduction to Microsoft Azure Power BI', topics: ['Power BI intro', 'Overview'] },
-      { title: '2. Getting started with Power BI (Overview)', topics: ['Getting started', 'Setup'] },
-      { title: '3. Getting Data from different Data Sources', topics: ['Data sources', 'Connection'] },
-      { title: '4. Designing, Developing and Optimising Data Models', topics: ['Data models', 'Optimisation'] },
-      { title: '5. Building Reports and Dashboards (Data Visualization)', topics: ['Reports', 'Dashboards'] },
-      { title: '6. Data Analysis Expressions (DAX) along Datasheet Management', topics: ['DAX', 'Datasheet management'] },
-      { title: '7. Power BI Services', topics: ['Power BI Services', 'Cloud'] },
-      { title: '8. Advanced Power BI Features', topics: ['Advanced features'] },
-      { title: '9. Power BI Integration with Azure Data Services', topics: ['Azure integration'] },
-      { title: '10. Power BI Administration and Governance', topics: ['Administration', 'Governance'] }
+      {
+        title: '1. Introduction to Power BI & Business Intelligence',
+        topics: [
+          'What is Business Intelligence? — concepts, tools and the modern BI stack',
+          'Introduction to Power BI — Desktop, Service, Mobile and Embedded',
+          'Power BI architecture — components and workflow overview',
+          'Installing Power BI Desktop and connecting to your first data source'
+        ]
+      },
+      {
+        title: '2. Data Connection & Power Query',
+        topics: [
+          'Connecting to 100+ data sources — Excel, CSV, SQL Server, Web, SharePoint, APIs',
+          'Power Query Editor — interface, data preview and query steps',
+          'Data transformation — remove duplicates, split columns, change types',
+          'Merging and appending queries — combining multiple data sources',
+          'M Language fundamentals — writing custom transformation steps',
+          'Handling null values, errors and data quality issues',
+          'Project: Cleaning and combining sales data from multiple Excel files'
+        ]
+      },
+      {
+        title: '3. Data Modeling & Relationships',
+        topics: [
+          'Star schema vs snowflake schema — best practices for Power BI models',
+          'Creating and managing table relationships — one-to-many, many-to-many',
+          'Relationship cardinality and cross-filter direction',
+          'Date table creation and time intelligence setup',
+          'Calculated columns vs measures — when to use each',
+          'Model optimization — best practices for performance and scalability'
+        ]
+      },
+      {
+        title: '4. DAX — Data Analysis Expressions',
+        topics: [
+          'Introduction to DAX — syntax, evaluation context and operators',
+          'Basic DAX functions — SUM, COUNT, AVERAGE, MIN, MAX, DISTINCTCOUNT',
+          'Filter functions — CALCULATE, FILTER, ALL, ALLEXCEPT, KEEPFILTERS',
+          'Time intelligence — DATEADD, SAMEPERIODLASTYEAR, YTD, QTD, MTD',
+          'RELATED and RELATEDTABLE — working across relationships',
+          'Variables in DAX — VAR and RETURN for complex formulas',
+          'Advanced DAX patterns — ABC analysis, Pareto, running totals',
+          'Project: Building a complete financial KPI dashboard with DAX'
+        ]
+      },
+      {
+        title: '5. Data Visualization & Reports',
+        topics: [
+          'Core visuals — bar, line, pie, scatter, map, table and matrix',
+          'Slicers, filters and drill-through — interactive report design',
+          'Conditional formatting, data bars and KPI cards',
+          'Custom visuals from AppSource — Chiclet Slicer, Gantt, Bullet Chart',
+          'Bookmarks, buttons and page navigation — storytelling with data',
+          'Report themes, accessibility and design best practices',
+          'Project: Building an interactive retail sales dashboard'
+        ]
+      },
+      {
+        title: '6. Power BI Service & Collaboration',
+        topics: [
+          'Publishing reports to Power BI Service (cloud)',
+          'Workspaces, apps and content distribution to teams',
+          'Scheduled data refresh — gateways and cloud refresh setup',
+          'Row-Level Security (RLS) — implementing data access control',
+          'Comments, subscriptions and alerts in Power BI Service',
+          'Power BI Embedded — integrating reports into custom applications'
+        ]
+      },
+      {
+        title: '7. Azure Integration & Cloud Analytics',
+        topics: [
+          'Azure SQL Database — connecting Power BI to cloud databases',
+          'Azure Synapse Analytics — DirectQuery and import mode',
+          'Azure Data Lake Storage Gen2 — accessing big data in Power BI',
+          'Microsoft Fabric — OneLake, Lakehouse and Dataflows Gen2',
+          'Azure Stream Analytics — real-time data streaming into Power BI',
+          'Power BI with Azure Active Directory — enterprise security setup'
+        ]
+      },
+      {
+        title: '8. Real-Time Dashboards & Advanced Features',
+        topics: [
+          'Real-time dashboard tiles — streaming datasets and push data',
+          'Power BI with Apache Kafka — live streaming analytics',
+          'What-If parameters and scenario analysis',
+          'Decomposition tree and Key Influencers visual for AI insights',
+          'Power BI Copilot — using AI to generate reports and summaries'
+        ]
+      },
+      {
+        title: '9. Power BI Administration & Governance',
+        topics: [
+          'Power BI Admin Portal — tenant settings and security policies',
+          'Deployment pipelines — Development, Test and Production environments',
+          'Data lineage, sensitivity labels and Microsoft Purview integration',
+          'Capacity management — Power BI Premium vs Pro vs Free'
+        ]
+      },
+      {
+        title: '10. PL-300 Exam Prep & Capstone Project',
+        topics: [
+          'PL-300 exam structure — topics, question types and passing score',
+          'Mock tests and practice assessments with detailed answers',
+          'Common exam mistakes and tips from certified professionals',
+          'How to schedule the PL-300 exam and explore available Microsoft exam discount programs (eligibility varies)',
+          'Capstone: End-to-end enterprise BI solution (your choice of domain)'
+        ]
+      }
     ],
     learningModes: [
-      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Customized schedule, personalised support.', buttonText: 'GET STARTED' },
-      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live virtual training by experienced instructors.', buttonText: 'ENROLL NOW' },
-      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customized corporate training for teams.', buttonText: 'CONTACT US' }
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Dedicated mentor for DAX, modeling, and PL-300 strategy.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live batches with hands-on Power BI Desktop and Service labs.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Custom BI programmes for analytics and finance teams.', buttonText: 'CONTACT US' }
     ],
     benefits: [
-      { title: 'Expert Learning Model', icon: '✓', description: 'Learning model by our experts' },
-      { title: 'Practical Exposure', icon: '📅', description: 'Practical exposure to projects' },
-      { title: 'Live Virtual Training', icon: '🏆', description: '30 Hour Live Virtual Training' },
-      { title: '24x7 Support', icon: '📅', description: '24x7 Learning assistance and support' },
-      { title: 'Industry Knowledge', icon: '📹', description: 'Industry-based knowledge' }
+      { title: 'PL-300 Exam Path', icon: '📜', description: 'Aligned to Microsoft Power BI Data Analyst Associate — mock tests and domain review.' },
+      { title: 'Live Instructor-Led', icon: '✓', description: 'Real-time sessions with practitioners — not pre-recorded only.' },
+      { title: '8+ Labs & Projects', icon: '📊', description: 'Retail, finance, HR, Azure-integrated and streaming scenarios.' },
+      { title: 'Azure & Fabric Ready', icon: '☁️', description: 'Synapse, Data Lake, Fabric, and enterprise security patterns.' },
+      { title: 'AI & Copilot', icon: '🤖', description: 'AI Insights, Copilot, and modern visuals for 2025-ready roles.' },
+      { title: 'Global Batches', icon: '🌍', description: 'EST, GMT, and IST options for flexible scheduling.' },
+      { title: 'Lifetime Materials', icon: '♾️', description: 'Recordings, PBIX files, and notes retained after enrollment.' },
+      { title: 'Career Support', icon: '💼', description: 'Resume, LinkedIn, mock interviews, and portfolio review.' }
     ],
     faqs: [
-      { question: 'Why should I pursue the Microsoft Azure Power BI training program?', answer: 'Mastering Microsoft Azure Power BI can significantly enhance your career prospects as a data analyst, business intelligence professional, or data scientist. It equips you with the skills to transform raw data into valuable insights and create interactive visualisations.' },
-      { question: 'What is the duration of your Microsoft Azure Power BI training program?', answer: 'Our Microsoft Azure Power BI training program typically lasts 30 hours, with flexible scheduling options to accommodate your learning pace.' },
-      { question: 'What prerequisites are required for enrollment?', answer: 'While no prior programming experience is necessary, a basic understanding of data concepts and familiarity with Microsoft Excel is beneficial. A keen interest in data analysis and visualisation is essential.' },
-      { question: 'How does this course benefit my future career?', answer: 'The Microsoft Azure Power BI certification can open doors to exciting career opportunities in various industries. It demonstrates your ability to leverage data for business intelligence, improve decision-making, and drive innovation.' },
-      { question: 'Do you provide live virtual training?', answer: 'Yes, we offer live virtual training sessions conducted by experienced instructors.' },
-      { question: 'Do you offer group discounts?', answer: 'Yes, we offer group discounts for organisations or individuals enrolling together.' }
+      {
+        question: 'Do I need any prior experience with Power BI or Azure?',
+        answer:
+          'No prior Power BI or Azure experience is required. The course starts with installing Power BI Desktop and connecting your first source. Basic Excel helps but is not mandatory. It suits beginners and those advancing to enterprise BI.'
+      },
+      {
+        question: 'Does this course prepare me for the Microsoft PL-300 certification?',
+        answer:
+          'Yes. It is aligned with PL-300 across all four domains: Prepare the Data, Model the Data, Visualize and Analyze the Data, and Deploy and Maintain Assets. Mock tests and practice questions are included. Microsoft exam pricing and discount programmes change over time — verify current offers on the Microsoft Certification site when you register.'
+      },
+      {
+        question: 'What is the average salary for a Power BI professional in the USA?',
+        answer:
+          'Salaries vary by role and location. Analyst and BI developer roles often fall in broad bands commonly cited in market surveys; senior developers and architects typically earn more. Use recent job postings in your region for the most accurate picture.'
+      },
+      {
+        question: 'Does Power BI Desktop work on Mac or Linux?',
+        answer:
+          'Power BI Desktop is Windows-based. Mac users typically use a Windows VM (e.g. Parallels or VMware) or focus on Power BI Service in the browser for certain workflows. We help Mac learners with setup guidance in early sessions.'
+      },
+      {
+        question: 'How long is the course and what are the batch timings?',
+        answer:
+          '50+ hours total, typically 8–10 weeks. Batches run in EST, GMT, and IST with weekday and weekend options. Contact us for the current schedule.'
+      },
+      {
+        question: 'What kind of projects will I build in this course?',
+        answer:
+          '8+ dashboards including retail sales, financial KPIs with DAX, HR analytics, real-time streaming scenarios, supply chain tracking, and a capstone enterprise BI project in a domain you choose.'
+      },
+      {
+        question: 'Is placement assistance provided after the course?',
+        answer:
+          'We provide career support including Power BI–focused resume and LinkedIn help, technical mock interviews (DAX and modeling), portfolio review, and referrals. Outcomes depend on your background, market, and effort.'
+      }
     ],
-    duration: '30 Hours',
+    duration: '50+ Hours',
     mode: 'Online',
     icon: 'azure',
-    heroSubtitle: 'Microsoft Azure Power BI'
+    heroSubtitle: 'PL-300',
+    toolsAndTechnologies: [
+      { name: 'Power BI Desktop', desc: 'Report authoring' },
+      { name: 'Power BI Service', desc: 'Cloud publishing' },
+      { name: 'Power BI Mobile', desc: 'On-the-go reports' },
+      { name: 'Power Query', desc: 'Data transformation' },
+      { name: 'DAX', desc: 'Data expressions' },
+      { name: 'Azure Synapse', desc: 'Cloud analytics' },
+      { name: 'Azure Data Lake', desc: 'Big data storage' },
+      { name: 'Microsoft Fabric', desc: 'Unified analytics' },
+      { name: 'Azure SQL Database', desc: 'Cloud database' },
+      { name: 'Excel & SharePoint', desc: 'Data sources' },
+      { name: 'Azure Active Directory', desc: 'Security & access' },
+      { name: 'Power BI + AI Insights', desc: 'AI visuals & ML' }
+    ]
   },
 
   'kubernetes-administrator-cka-training': {
@@ -4218,12 +4370,12 @@ export const courses = {
         'General awareness of cloud analytics platforms and pipeline concepts'
       ],
       whoCanJoin: [
-        'Analytics Engineers building Fabric semantic models and integrated analytics solutions',
-        'Data Engineers designing lakehouse-based pipelines and end-to-end data flows',
-        'BI Developers extending Power BI skills into the Fabric analytics stack',
-        'Data Architects designing enterprise-scale analytics architectures on Fabric and OneLake',
-        'Azure Practitioners migrating Synapse/ADF/Power BI workloads into Fabric',
-        'IT Professionals transitioning into modern analytics engineering roles'
+        'Analytics Engineers — building semantic models and integrated analytics solutions within the Microsoft Fabric ecosystem',
+        'Data Engineers — designing lakehouse-based data pipelines and end-to-end data flows using Fabric\'s unified platform',
+        'BI Developers — extending Power BI expertise into the full Microsoft Fabric analytics and data engineering stack',
+        'Data Architects — designing enterprise-scale, cloud-native analytics architectures built on Microsoft Fabric and OneLake',
+        'Azure Practitioners — migrating existing Azure Synapse, ADF, and Power BI workloads into the unified Fabric platform',
+        'IT Professionals — transitioning into modern analytics engineering roles with a recognised Microsoft certification'
       ],
       distinctness:
         'A unified Fabric programme aligned to DP-600, focused on building lakehouses, orchestrating pipelines, creating semantic models, delivering KQL real-time analytics, and implementing Purview governance. You leave with practical, exam-ready experience gained through guided labs.'
@@ -4328,40 +4480,39 @@ export const courses = {
       { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customized corporate Fabric training for teams and enterprise workflows.', buttonText: 'CONTACT US' }
     ],
     benefits: [
-      { title: 'End-to-End Fabric Expertise', icon: '✓', description: 'Unified coverage across lakehouses, pipelines, semantic models, real-time analytics, and governance.' },
-      { title: 'Exam-Aligned Labs', icon: '📚', description: 'Every module supports DP-600 objectives with guided lab delivery.' },
-      { title: 'OneLake & Lakehouse Skills', icon: '🗄️', description: 'Hands-on development patterns for lakehouse-based analytics.' },
-      { title: 'Real-Time KQL Readiness', icon: '⚡', description: 'KQL and EventStream foundations for operational analytics.' },
-      { title: 'Purview Governance Focus', icon: '🛡️', description: 'Governance, lineage, and compliance concepts for enterprise readiness.' }
+      { title: 'Unified Modern Analytics Platform', icon: '✓', description: 'End-to-end proficiency across data engineering, warehousing, real-time analytics, BI, and data science on Microsoft Fabric.' },
+      { title: 'Globally Recognised Certification', icon: '📜', description: 'DP-600 validates analytics engineering on Fabric — a credential that signals job readiness to employers.' },
+      { title: 'Hands-On Fabric Labs', icon: '🧪', description: 'Guided exercises in a real Fabric workspace: lakehouses, pipelines, semantic models, and real-time data.' },
+      { title: 'High Demand, Strong Differentiation', icon: '📈', description: 'Fabric adoption is accelerating; certified professionals remain in short supply relative to demand.' },
+      { title: 'Full Modern Data Stack', icon: '🗂️', description: 'One programme for warehousing, pipelines, BI, streaming, and governance — holistically on OneLake.' },
+      { title: 'Career Progression', icon: '🚀', description: 'Position for Analytics Engineer, Senior Data Engineer, and Data Platform Architect roles with competitive compensation.' },
+      { title: 'Governance & Compliance', icon: '🛡️', description: 'Enterprise-grade governance with Microsoft Purview — valued in regulated industries.' },
+      { title: 'Immediate Business Impact', icon: '💼', description: 'Skills from semantic models to real-time dashboards you can apply from day one.' }
     ],
     faqs: [
       {
-        question: 'Is prior Microsoft Fabric experience required to enrol?',
-        answer: 'No. All Fabric platform-specific concepts are covered from the ground up, and the programme includes module-level labs inside a real Fabric workspace.'
+        question: 'Is prior Power BI or Azure experience required to enrol?',
+        answer: 'No prior Power BI or Azure experience is mandatory. The programme covers all Microsoft Fabric components comprehensively from the ground up. Familiarity with SQL and basic cloud concepts will help you progress more quickly.'
       },
       {
-        question: 'Is familiarity with Power BI or Azure Data services helpful?',
-        answer: 'Yes, it can help you progress faster, but it is not mandatory. The programme covers relevant concepts needed to succeed in DP-600.'
+        question: 'Will I receive access to recorded sessions?',
+        answer: 'Yes. All enrolled students receive lifetime access to recorded class sessions, enabling flexible revision at any time after the live training concludes.'
       },
       {
-        question: 'Does the training cover guided labs in a real Fabric workspace?',
-        answer: 'Yes. Every module includes guided lab exercises in a Fabric environment so you build lakehouses, pipelines, semantic models, and real-time analytics as you learn.'
+        question: 'Is the Microsoft DP-600 exam fee included in the course fee?',
+        answer: 'The training fee covers all instruction, lab environments, and exam preparation materials. The official Microsoft DP-600 examination fee is paid separately at the time of scheduling via the Microsoft Certification portal.'
       },
       {
-        question: 'What is included in the course fee?',
-        answer: 'The course fee covers instruction, lab environments, and exam preparation materials. The official Microsoft DP-600 exam fee is paid separately when scheduling via the Microsoft Certification portal.'
+        question: 'How quickly can I complete the certification?',
+        answer: 'Most students complete the training within 4 to 6 weeks and are fully prepared for the DP-600 examination shortly thereafter. The timeline may vary based on prior experience and the chosen learning mode.'
       },
       {
-        question: 'How quickly can I prepare for the DP-600 exam?',
-        answer: 'Most students complete the programme within 4 to 6 weeks and are prepared to take the DP-600 exam shortly after. Your timeline may vary based on prior experience and your learning mode.'
-      },
-      {
-        question: 'What roles can I target after earning DP-600?',
-        answer: 'You can target roles such as Analytics Engineer, Senior Data Engineer (Fabric), BI Architect, Data Platform Engineer, and Fabric Consultant across enterprise and cloud-native organisations.'
+        question: 'What roles can I target after earning the DP-600 certification?',
+        answer: 'Certified graduates are well-positioned for Analytics Engineer, Data Engineer (Fabric), BI Architect, Data Platform Engineer, and Microsoft Fabric Consultant roles across enterprise and cloud-native organisations.'
       },
       {
         question: 'Is corporate or team training available?',
-        answer: 'Yes. We offer customized corporate training programs tailored to your organisation\'s current tools, team skill levels, and business goals.'
+        answer: 'Yes. We offer fully customized corporate training programs tailored to your organisation’s current tools, team skill levels, and business goals. Please contact us for a personalised proposal and team pricing.'
       }
     ],
     duration: '4 to 6 Weeks',
@@ -4374,7 +4525,8 @@ export const courses = {
     title: 'AWS Certified Machine Learning Engineer Associate (MLA-C01)',
     category: 'Data Engineering',
     heroDescription:
-      'A rigorous, hands-on training programme that prepares you to design, build, train, deploy, and optimise machine learning workloads on AWS, fully aligned to the MLA-C01 examination and real-world ML engineering practices. Through live instruction and hands-on Amazon SageMaker labs, you will ingest and prepare data, build and tune models, deploy scalable ML pipelines, monitor production workloads, and integrate generative AI using Amazon Bedrock within the AWS cloud ecosystem.',
+      'AWS Certified Machine Learning Engineer Associate (MLA-C01). A rigorous, hands-on training programme that prepares you to design, build, train, deploy, and optimise machine learning workloads on Amazon Web Services — fully aligned to the MLA-C01 examination and real-world ML engineering practices. Through live instruction and hands-on Amazon SageMaker labs, you will ingest and prepare data, build and tune models, deploy scalable ML pipelines, monitor production workloads, and integrate generative AI using Amazon Bedrock — all within the AWS cloud ecosystem. Duration: 30–35 Hours. Exam: MLA-C01. Mode: Live Online / 1-to-1 / Corporate. Level: Intermediate to Advanced.',
+    heroBannerImage: '/course-banners/aws-solutions-architect.png',
     callToAction: 'Request Callback',
     highlights: [
       'MLA-C01 aligned end-to-end ML engineering syllabus',
@@ -4391,11 +4543,15 @@ export const courses = {
       whyChoose:
         'You graduate with skills that span the full ML lifecycle: from data ingestion and feature engineering to model training, deployment, MLOps automation, and production monitoring. The training is designed to be exam-ready and job-ready by mirroring how ML engineers operationalize machine learning systems in AWS environments, including security and compliance fundamentals.',
       keyFeatures: [
-        'Hands-on Amazon SageMaker environment labs',
-        'MLOps skills: pipelines, model registry, and CI/CD for ML',
-        'Production monitoring: drift, security, and audit logging',
-        'Generative AI module with Amazon Bedrock (prompting and RAG)',
-        'Full-length MLA-C01 practice papers and mock tests'
+        'Certification: AWS Certified Machine Learning Engineer Associate (MLA-C01)',
+        'Training duration: 30–35 Hours of live, instructor-led content',
+        'Hands-on labs: real SageMaker environment exercises in every module',
+        'Session recordings: lifetime access to all recorded class sessions',
+        'Mock examinations: full-length MLA-C01 practice papers with answer walkthroughs',
+        '1-on-1 mentoring: dedicated doubt-clearing with certified AWS ML professionals',
+        'Flexible scheduling: weekday, weekend, and self-paced options',
+        'Post-training support: resume building, LinkedIn optimisation, and career guidance',
+        'Corporate training: fully customised enterprise batches for teams of any size'
       ],
       whatYouWillLearn: [
         'Understand ML foundations and AWS shared responsibility for ML workloads',
@@ -4430,9 +4586,10 @@ export const courses = {
       {
         title: '1. Introduction to Machine Learning on AWS',
         topics: [
-          'ML fundamentals and the AWS shared responsibility model for ML workloads',
-          'AWS global infrastructure concepts',
-          'Amazon SageMaker overview'
+          'ML fundamentals',
+          'AWS global infrastructure',
+          'Amazon SageMaker overview',
+          'Shared responsibility model for ML workloads'
         ]
       },
       {
@@ -4533,11 +4690,14 @@ export const courses = {
       { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Custom corporate batches tailored to your teams and AWS environment.', buttonText: 'CONTACT US' }
     ],
     benefits: [
-      { title: 'End-to-End MLA-C01 Coverage', icon: '✓', description: 'From data ingestion and feature engineering to deployment and monitoring.' },
-      { title: 'Real SageMaker Labs', icon: '📌', description: 'Build training jobs, endpoints, and tuning workflows in a live environment.' },
-      { title: 'MLOps and CI/CD Skills', icon: '🔁', description: 'Model lifecycle automation, retraining, and release patterns for production.' },
-      { title: 'Security and Compliance Focus', icon: '🛡️', description: 'IAM, VPC isolation, encryption, and audit logging for enterprise readiness.' },
-      { title: 'Generative AI with Bedrock', icon: '✨', description: 'Prompt engineering and RAG integration patterns on AWS.' }
+      { title: 'End-to-End ML Engineering', icon: '✓', description: 'Full ML lifecycle from ingestion and feature engineering to training, deployment, and production monitoring.' },
+      { title: 'Sought-After AWS ML Credential', icon: '📜', description: 'MLA-C01 validates implementation of ML solutions at scale on the world’s largest cloud provider.' },
+      { title: 'Real SageMaker Labs', icon: '📌', description: 'Hands-on exercises: training jobs, inference endpoints, hyperparameter tuning, and deployments as in production.' },
+      { title: 'Fast-Growing ML Job Market', icon: '📈', description: 'ML engineering on AWS is among the highest-paying, fastest-growing technology career paths.' },
+      { title: 'MLOps & Production Pipelines', icon: '🔁', description: 'CI/CD for ML, automated retraining, model versioning, and drift monitoring — senior engineer differentiators.' },
+      { title: 'Generative AI on AWS', icon: '✨', description: 'Amazon Bedrock, prompt engineering, and RAG — aligned to frontier enterprise AI adoption.' },
+      { title: 'Security & Compliance', icon: '🛡️', description: 'IAM, VPC isolation, encryption, and CloudTrail audit logging for regulated environments.' },
+      { title: 'Salary & Negotiation Leverage', icon: '💼', description: 'Certification as a quantifiable differentiator backed by market demand for AWS ML skills.' }
     ],
     faqs: [
       {
@@ -4587,8 +4747,9 @@ export const courses = {
       'Full-stack capstone deployment for your portfolio'
     ],
     description: {
+      whyChooseTitle: 'Why choose Angular Training from InsureTech Skills?',
       overview:
-        'This programme is structured into three progressive tiers (Beginner, Intermediate, Advanced) so students with zero prior experience can join and progress all the way to building production-grade, enterprise-level Angular applications. Each tier builds on the previous one, and every module includes guided coding exercises and real-world mini-projects.',
+        'This programme is structured into three progressive tiers — Beginner, Intermediate, and Advanced — so students with zero prior experience can join and progress all the way to building production-grade, enterprise-level Angular applications. Each tier builds on the previous one, and every module includes guided coding exercises and real-world mini-projects.',
       distinctness:
         'One programme that takes you from zero to production-ready Angular. You gain deep TypeScript proficiency, reactive programming skills with RxJS, scalable state management with NgRx, and modern enterprise capabilities like testing, SSR (Angular Universal), micro-frontends, and CI/CD deployment.',
       whatYouWillLearn: [
@@ -4739,12 +4900,14 @@ export const courses = {
       { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customized enterprise training for development teams.', buttonText: 'CONTACT US' }
     ],
     benefits: [
-      { title: 'Zero to Production Ready', icon: '✓', description: 'Progress from absolute scratch to deployable Angular applications.' },
-      { title: 'TypeScript Depth', icon: '📘', description: 'Industry-standard TypeScript proficiency for professional front-end work.' },
-      { title: 'RxJS Reactive Programming', icon: '⚡', description: 'Hands-on mastery of Observables and async data streams.' },
-      { title: 'NgRx State Management', icon: '🧠', description: 'Predictable, maintainable apps with scalable shared state.' },
-      { title: 'Enterprise Testing and SSR', icon: '🛡️', description: 'Unit and E2E testing plus SSR fundamentals with Angular Universal.' },
-      { title: 'Capstone Portfolio Project', icon: '🚀', description: 'A deployable full-stack capstone project for interviews and technical assessments.' }
+      { title: 'One Programme — Zero to Production', icon: '✓', description: 'A single path from basics to deploying a production-grade Angular app — no patchwork of separate courses.' },
+      { title: 'Master TypeScript', icon: '📘', description: 'Deep TypeScript proficiency — the standard for professional front-end and explicitly required in senior roles.' },
+      { title: 'RxJS & Reactive Programming', icon: '⚡', description: 'Observables and operators — transferable across Angular, React, and Node.js ecosystems.' },
+      { title: 'Full-Stack Integration', icon: '🔗', description: 'REST APIs, JWT auth, HTTP interceptors, and back-end integration patterns.' },
+      { title: 'State Management at Scale', icon: '🧠', description: 'NgRx for predictable, maintainable applications with complex shared state.' },
+      { title: 'High-Demand Front-End Roles', icon: '📈', description: 'Angular is widely used in banking, healthcare, insurance, and enterprise SaaS worldwide.' },
+      { title: 'Portfolio Capstone', icon: '🚀', description: 'Deployable full-stack app with API integration, JWT, and cloud deployment for interviews.' },
+      { title: 'Salary Growth Trajectory', icon: '💼', description: 'Enterprise Angular ecosystem skills — testing, performance, NgRx, SSR — map to upper compensation bands.' }
     ],
     faqs: [
       {
@@ -4775,14 +4938,20 @@ export const courses = {
     duration: '30-45 Hours',
     mode: 'Online',
     icon: 'angular',
-    heroSubtitle: 'Angular Training'
+    heroSubtitle: 'Scratch to Advanced',
+    tools: [
+      'Angular (v17+)', 'TypeScript', 'Angular CLI', 'RxJS', 'NgRx', 'Angular Universal (SSR)', 'Webpack Module Federation',
+      'Angular Material', 'Bootstrap 5', 'Tailwind CSS', 'SCSS/SASS', 'PrimeNG', 'CDK',
+      'Jasmine', 'Karma', 'Cypress', 'Angular DevTools', 'ESLint', 'Prettier', 'Webpack Bundle Analyser',
+      'REST APIs', 'Node.js/Express', 'JWT', 'Firebase', 'AWS Amplify', 'Vercel', 'Docker', 'GitHub Actions'
+    ]
   },
   'microsoft-azure-sql-solution-training': {
     slug: 'microsoft-azure-sql-solution-training',
     title: 'Microsoft Azure SQL Solution Training',
     category: 'Database',
     heroDescription:
-      'A comprehensive, structured training programme that takes you from relational database fundamentals all the way to designing, deploying, securing, and optimising enterprise-grade SQL solutions on Microsoft Azure, aligned to the DP-300 (Administering Relational Databases on Microsoft Azure) certification. Duration: 25-40 Hours. Exam: DP-300. Mode: Live Online / 1-to-1 / Corporate.',
+      'Microsoft Azure · DP-300 · Scratch to Advanced — Azure SQL Solution Training. A comprehensive, structured training programme that takes you from relational database fundamentals all the way to designing, deploying, securing, and optimising enterprise-grade SQL solutions on Microsoft Azure — aligned to the DP-300 (Administering Relational Databases on Microsoft Azure) certification. Duration: 25–40 Hours. Exam: DP-300. Mode: Live Online / 1-to-1 / Corporate. Level: Scratch to Advanced.',
     heroBannerImage: '/course-banners/azure-sql-solution-training.png',
     callToAction: 'Request Callback',
     highlights: [
@@ -5082,11 +5251,11 @@ export const courses = {
     title: 'GRC Training',
     category: 'IT Security',
     heroDescription:
-      'A comprehensive, structured training programme that takes you from foundational GRC concepts to designing, implementing, and managing enterprise-grade Governance, Risk, and Compliance frameworks. You will cover global standards, regulatory requirements, risk management methodologies, and audit practices across IT and business environments.',
+      'Governance · Risk · Compliance · Scratch to Advanced — GRC Training. A comprehensive, structured training programme that takes you from foundational GRC concepts all the way to designing, implementing, and managing enterprise-grade Governance, Risk, and Compliance frameworks — covering global standards, regulatory requirements, risk management methodologies, and audit practices across IT and business environments. Duration: 30–45 Hours. Mode: Live Online / 1-to-1 / Corporate. Certifications: CRISC · CISA · ISO 27001 · CGRC (ISC²). Level: Scratch to Advanced. Rating: 4.8 / 5.0.',
     heroBannerImage: '/course-banners/grc-training.png',
     callToAction: 'Request Callback',
     highlights: [
-      'CRISC, CISA, CGRC (ISC2), ISO 27001 aligned preparation',
+      'CRISC, CISA, CGRC (ISC²), ISO 27001 aligned preparation',
       'Scratch to advanced GRC programme with real-world frameworks',
       'Risk assessment, ISO 27001, NIST CSF, and RMF coverage',
       'Privacy, financial, and third-party/vendor risk management',
@@ -5103,7 +5272,7 @@ export const courses = {
       keyFeatures: [
         '27 modules across progressive GRC tiers',
         'Case studies and scenario exercises in every module',
-        'CRISC, CISA, CGRC (ISC2), and ISO 27001 Lead Implementer preparation',
+        'CRISC, CISA, CGRC (ISC²), and ISO 27001 Lead Implementer preparation',
         'Cloud GRC, CCM automation, and cyber risk analytics concepts',
         'Enterprise GRC capstone project simulating multi-jurisdiction scenarios'
       ],
@@ -5170,7 +5339,7 @@ export const courses = {
       { title: '24. Regulatory Change Management', topics: ['Horizon scanning for regulatory change', 'Building a regulatory change management process', 'Mapping new regulations to existing controls', 'Impact assessments and engaging regulators', 'Maintaining compliance over time'] },
       { title: '25. Incident Management & Regulatory Breach Notification', topics: ['Incident response lifecycle integration with GRC', 'Regulatory notification obligations', 'GDPR 72-hour rule and SEC-style disclosure thinking', 'Post-incident lessons learned', 'Root cause analysis for compliance failures'] },
       { title: '26. GRC Metrics, Reporting & Board Communication', topics: ['Designing a GRC metrics framework', 'KPIs vs KRIs', 'Executive and board reporting', 'Communicating risk in business language', 'GRC maturity model for continuous improvement'] },
-      { title: '27. Certification Preparation & Enterprise Capstone Project', topics: ['Mock examinations for CRISC, CISA, CGRC (ISC2), and ISO 27001 Lead Implementer', 'Exam strategy per certification', 'Enterprise capstone: end-to-end GRC programme design for a simulated multi-jurisdiction organisation'] }
+      { title: '27. Certification Preparation & Enterprise Capstone Project', topics: ['Mock examinations for CRISC, CISA, CGRC (ISC²), and ISO 27001 Lead Implementer', 'Exam strategy per certification', 'Enterprise capstone: end-to-end GRC programme design for a simulated multi-jurisdiction organisation'] }
     ],
     learningModes: [
       { title: '1-TO-1 TRAINING', icon: '👥', description: 'Live 1-to-1 mentoring with guided GRC case study sessions.', buttonText: 'GET STARTED' },
@@ -5178,7 +5347,7 @@ export const courses = {
       { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customized enterprise GRC training for risk, audit, and compliance teams.', buttonText: 'CONTACT US' }
     ],
     benefits: [
-      { title: 'Multi-Certification Readiness', icon: 'cert', description: 'Preparation for CRISC, CISA, CGRC (ISC2), and ISO 27001 Lead Implementer paths.' },
+      { title: 'Multi-Certification Readiness', icon: 'cert', description: 'Preparation for CRISC, CISA, CGRC (ISC²), and ISO 27001 Lead Implementer paths.' },
       { title: 'Real-World Case Studies', icon: 'case', description: 'Scenario exercises in every module to build practical judgement.' },
       { title: 'Risk and Control Implementation Skills', icon: 'shield', description: 'Design controls, assess risk, test effectiveness, and track remediation.' },
       { title: 'Audit and BC/DR Competence', icon: 'audit', description: 'IT audit lifecycle and continuity planning with RPO/RTO concepts.' },
@@ -5196,7 +5365,7 @@ export const courses = {
       },
       {
         question: 'Which certifications does this programme prepare me for?',
-        answer: 'CRISC, CISA, CGRC (ISC2), and ISO 27001 Lead Implementer. Eligibility requirements are covered in the certification preparation module.'
+        answer: 'CRISC, CISA, CGRC (ISC²), and ISO 27001 Lead Implementer. Eligibility requirements are covered in the certification preparation module.'
       },
       {
         question: 'Are the certification exam fees included in the course fee?',
@@ -5221,12 +5390,12 @@ export const courses = {
     title: 'Certified Information Systems Security Professional Training (CISSP)',
     category: 'IT Security',
     heroDescription:
-      'A comprehensive, structured training programme that takes you from foundational cybersecurity and information security concepts to mastering all eight CISSP domains. It equips you with the knowledge, depth, and strategic mindset required to pass the ISC2 CISSP examination and operate as a senior security professional.',
+      'ISC² · Certified Information Systems Security Professional · Scratch to Advanced. A comprehensive, structured training programme that takes you from foundational cybersecurity and information security concepts to mastering all eight CISSP domains — equipping you with the knowledge, depth, and strategic mindset required to pass the ISC² CISSP examination and operate as a senior security professional. Duration: 40–55 Hours. Exam: ISC² CISSP. Mode: Live Online / 1-to-1 / Corporate. Level: Scratch to Advanced. Rating: 4.9 / 5.0.',
     heroBannerImage: '/course-banners/cissp-training.png',
     callToAction: 'Request Callback',
     highlights: [
       'All eight CISSP domains covered end-to-end',
-      'ISC2 CISSP CAT exam strategy and mindset',
+      'ISC² CISSP CAT exam strategy and mindset',
       'Scenario-based exercises with domain practice focus',
       'Security governance, risk, and compliance foundation',
       'Security operations, assessment, and testing mastery',
@@ -5235,7 +5404,7 @@ export const courses = {
       'Full mock examinations and exam-day preparation'
     ],
     description: {
-      whyChooseTitle: 'Why choose CISSP Training (ISC2) from InsureTech Skills?',
+      whyChooseTitle: 'Why choose CISSP Training (ISC²) from InsureTech Skills?',
       overview:
         'This programme is structured across three progressive tiers (Beginner, Intermediate, Advanced) to enable students with limited security experience to build the broad, deep knowledge required to pass the CISSP examination and function as a senior information security practitioner. All eight CISSP Common Body of Knowledge (CBK) domains are covered comprehensively, with scenario-based exercises, domain-specific practice questions, and real-world application examples. The programme concludes with full mock examinations and exam-day strategy.',
       whyChoose:
@@ -5265,7 +5434,7 @@ export const courses = {
         'Basic IT literacy: familiarity with operating systems and using a web browser',
         'Some exposure to networking or IT concepts is helpful but taught from scratch',
         'No prior cybersecurity or CISSP knowledge is required (foundations are taught in Module 01)',
-        'Note: ISC2 requires experience for certification, but this programme prepares you for the CISSP examination'
+        'Note: ISC² requires experience for certification, but this programme prepares you for the CISSP examination'
       ],
       whoCanJoin: [
         'Security analysts and engineers building the managerial security knowledge required for CISSP',
@@ -5286,8 +5455,8 @@ export const courses = {
       { title: '5. Cryptography Fundamentals', topics: ['Symmetric vs asymmetric encryption', 'Hashing and digital signatures', 'PKI basics', 'SSL/TLS and where cryptography is applied', 'Common algorithms (AES, RSA, SHA)'] },
       { title: '6. Identity & Access Management Fundamentals', topics: ['Authentication factors: know/have/are', 'SSO concepts', 'Multi-Factor Authentication (MFA)', 'Directory services (LDAP, Active Directory)', 'Access control models (DAC, MAC, RBAC, ABAC)', 'Identity lifecycle management'] },
       { title: '7. Security Governance & Risk Basics', topics: ['Security governance structures', 'Security policies and standards hierarchy', 'Risk management: identify, assess, treat, monitor', 'Risk appetite and strategy alignment'] },
-      { title: '8. Introduction to the CISSP Certification & CBK', topics: ['ISC2 CISSP overview', 'CISSP eligibility and endorsement process concepts', 'Eight CISSP domains', 'CAT exam format and passing concepts', 'Study strategy overview'] },
-      { title: '9. Domain 1 — Security & Risk Management (Part 1)', topics: ['Security governance principles', 'Legal and regulatory requirements examples', 'ISC2 Code of Ethics', 'Security policies and procedures', 'Business continuity planning concepts'] },
+      { title: '8. Introduction to the CISSP Certification & CBK', topics: ['ISC² CISSP overview', 'CISSP eligibility and endorsement process concepts', 'Eight CISSP domains', 'CAT exam format and passing concepts', 'Study strategy overview'] },
+      { title: '9. Domain 1 — Security & Risk Management (Part 1)', topics: ['Security governance principles', 'Legal and regulatory requirements examples', 'ISC² Code of Ethics', 'Security policies and procedures', 'Business continuity planning concepts'] },
       { title: '10. Domain 1 — Security & Risk Management (Part 2)', topics: ['Risk management frameworks (NIST RMF, ISO 31000, FAIR)', 'Threat modelling (STRIDE, PASTA, DREAD)', 'Quantitative and qualitative risk analysis', 'Risk treatment options', 'Personnel security and security awareness'] },
       { title: '11. Domain 2 — Asset Security', topics: ['Information and asset classification', 'Data lifecycle management concepts', 'Data remanence and secure disposal', 'Privacy protection concepts', 'Data localisation and protecting PII'] },
       { title: '12. Domain 3 — Security Architecture & Engineering (Part 1)', topics: ['Security architecture models (Zachman, SABSA, TOGAF)', 'Security design principles (least privilege, fail-safe defaults, separation of duties)', 'Trusted computing concepts', 'Secure hardware architecture basics'] },
@@ -5327,8 +5496,8 @@ export const courses = {
         answer: 'Yes. The programme begins with information security fundamentals, networking basics, and cryptography concepts from scratch. Some IT background helps, but it is not required.'
       },
       {
-        question: 'What is the ISC2 experience requirement for CISSP?',
-        answer: 'ISC2 requires at least five years of cumulative paid work experience in two or more CISSP domains for certification. You can still take the exam and, upon passing, become an Associate until the experience requirement is fulfilled.'
+        question: 'What is the ISC² experience requirement for CISSP?',
+        answer: 'ISC² requires at least five years of cumulative paid work experience in two or more CISSP domains for certification. You can still take the exam and, upon passing, become an Associate of ISC² until the experience requirement is fulfilled.'
       },
       {
         question: 'How is the CISSP exam structured?',
@@ -5336,7 +5505,7 @@ export const courses = {
       },
       {
         question: 'Is the CISSP exam fee included in the course fee?',
-        answer: 'No. The official ISC2 CISSP examination fee is paid separately via the Pearson VUE portal at the time of scheduling.'
+        answer: 'No. The official ISC² CISSP examination fee is paid separately via the Pearson VUE portal at the time of scheduling.'
       },
       {
         question: 'What roles can I target after earning CISSP?',
@@ -5358,7 +5527,7 @@ export const courses = {
     title: 'Microsoft Azure Data Scientist Training',
     category: 'Data Science',
     heroDescription:
-      'A comprehensive, structured training programme that takes you from Python and mathematics fundamentals to designing, training, deploying, and monitoring machine learning solutions using Azure Machine Learning, fully aligned to Microsoft DP-100 (Designing and Implementing a Data Science Solution on Azure).',
+      'Microsoft Azure · DP-100 · Scratch to Advanced — Azure Data Scientist Associate Training. A comprehensive, structured training programme that takes you from Python and mathematics fundamentals all the way to designing, training, deploying, and monitoring machine learning solutions using Azure Machine Learning — fully aligned to the Microsoft DP-100 (Designing and Implementing a Data Science Solution on Azure) certification examination. Duration: 35–50 Hours. Exam: DP-100. Mode: Live Online / 1-to-1 / Corporate. Level: Scratch to Advanced. Rating: 4.8 / 5.0.',
     heroBannerImage: '/course-banners/azure-data-scientist-training.png',
     callToAction: 'Request Callback',
     highlights: [
@@ -5429,7 +5598,7 @@ export const courses = {
       { title: '14. Automated Machine Learning (AutoML)', topics: ['Configuring AutoML for classification/regression/forecasting', 'Featurisation and primary metrics', 'Reviewing explanations and deploying best models'] },
       { title: '15. Hyperparameter Tuning with Azure ML', topics: ['Hyperparameter search spaces', 'Sampling: random/grid/Bayesian', 'HyperDrive execution and early termination policies'] },
       { title: '16. Deep Learning Fundamentals', topics: ['Neural network concepts and backpropagation', 'Optimizers: SGD/Adam/RMSProp', 'CNNs for image tasks and RNN/LSTM concepts'] },
-      { title: '17. Natural Language Processing (NLP)', topics: ['Tokenisation, stopword removal, stemming/lemmatisation', 'TF-IDF and embeddings (Word2Vec/GloVe)', 'Sentiment analysis and text classification'] },
+      { title: '17. Natural Language Processing (NLP)', topics: ['Tokenisation, stopword removal, stemming/lemmatisation', 'TF-IDF and embeddings (Word2Vec/GloVe)', 'Sentiment analysis and text classification', 'Azure AI Language service for NLP tasks'] },
       { title: '18. Azure ML Pipelines', topics: ['Building pipelines with Azure ML SDK v2', 'Passing data between steps', 'Running and scheduling end-to-end training workflows'] },
       { title: '19. Model Interpretability & Responsible AI', topics: ['Explainability with SHAP and LIME', 'Fairness analysis concepts', 'Error analysis, counterfactual thinking, and responsible AI practices'] },
       { title: '20. Model Registration & Management', topics: ['Model registry and versioning', 'Tags and lineage concepts', 'Staging and promoting model versions'] },
@@ -5486,142 +5655,1674 @@ export const courses = {
     icon: 'azure',
     heroSubtitle: 'DP-100'
   },
-  'google-professional-cloud-architect-training': {
+    'google-professional-cloud-architect-training': {
     slug: 'google-professional-cloud-architect-training',
     title: 'Google Professional Cloud Architect Training',
     category: 'Cloud Computing',
     heroDescription:
-      'A comprehensive, hands-on training programme that helps you design, deploy, and manage enterprise-grade cloud architecture on Google Cloud. Learn architecture patterns, reliability and scalability practices, security and IAM foundations, networking, data services, and cost/performance optimisation — aligned to the Google Professional Cloud Architect certification objectives.',
+      'Google Cloud · Professional Cloud Architect · Scratch to Advanced. A comprehensive, structured training programme that takes you from cloud computing fundamentals all the way to designing, securing, and governing scalable, highly available enterprise solutions on Google Cloud Platform — fully aligned to the Google Professional Cloud Architect (PCA) certification examination. Duration: 35–50 Hours. Exam: Google Professional Cloud Architect. Mode: Live Online / 1-to-1 / Corporate. Level: Scratch to Advanced. Rating: 4.8 / 5.0. Every module includes hands-on lab exercises in a real GCP environment; the programme culminates in an end-to-end capstone project mirroring the Professional Cloud Architect case study format.',
     heroBannerImage: '/course-banners/google-professional-cloud-architect.png',
     callToAction: 'Request Callback',
     highlights: [
-      'Hands-on GCP architecture labs',
-      'Cloud design patterns for production systems',
-      'Reliability, security, and scalability focus',
-      'Networking, IAM, and data architecture coverage',
-      'Cost management and performance optimisation',
-      'Exam preparation and architecture capstone project'
+      '28 modules across Beginner, Intermediate, and Advanced tiers',
+      'Hands-on GCP Console and gcloud CLI labs every module',
+      'Full PCA exam prep including all four official Google case studies',
+      'Enterprise architecture: HA, Zero Trust, FinOps, org hierarchy',
+      'Data lakes, BigQuery, Dataflow, Vertex AI, and Anthos coverage',
+      'Mock examinations and capstone architecture project'
     ],
     description: {
       whyChooseTitle: 'Why choose Google Professional Cloud Architect Training from InsureTech Skills?',
       overview:
-        'This programme provides structured, real-world training across the key areas required to architect solutions on Google Cloud. You will learn how to design secure, reliable, scalable, and cost-efficient architectures using core GCP services and cloud-native patterns. Each module is reinforced with practical labs and scenario-based exercises that reflect how cloud architects work in enterprises.',
+        'Structured across three progressive tiers — Beginner, Intermediate, and Advanced — so learners with no prior cloud experience can reach proficiency in designing and delivering enterprise-grade solutions on GCP. Reinforced with hands-on labs and a capstone aligned to PCA case studies.',
       whyChoose:
-        'Instead of focusing on isolated features, you build end-to-end architecture skills. You will practice designing reference architectures, applying best practices for reliability and security, and validating trade-offs in performance and cost. The curriculum also includes exam preparation support and a capstone architecture project to strengthen job-ready confidence.',
+        'Google Cloud leads in data-intensive and AI-driven workloads. This programme gives you one coherent path from fundamentals to expert architecture — compute, networking, storage, data, AI, security, governance, hybrid/multi-cloud with Anthos, FinOps, and the GCP Well-Architected Framework.',
       keyFeatures: [
-        'Architecture-first learning approach',
-        'Real-world labs and scenario exercises',
-        'Reliability, security, and IAM best practices',
-        'Networking design and hybrid connectivity concepts',
-        'Data architecture patterns and operational readiness',
-        'Exam preparation and capstone project'
+        'PCA-aligned syllabus with case study module (EHR, HRL, Mountkirk, TerramEarth)',
+        '28 modules with tiered progression',
+        'Real GCP environment labs',
+        'Mock exams and exam strategy',
+        'Capstone mirroring PCA case format'
       ],
       whatYouWillLearn: [
-        'Design cloud architecture on Google Cloud: reference patterns and trade-offs',
-        'Plan compute solutions using autoscaling and load balancing',
-        'Build storage and data architecture using core GCP services',
-        'Design VPC networking, routing, DNS, and secure connectivity patterns',
-        'Implement identity and access with IAM and service accounts',
-        'Apply reliability practices (SRE concepts), monitoring, and incident readiness',
-        'Use security and compliance approaches including encryption and key management',
-        'Govern cloud resources using organisation policies and governance guardrails',
-        'Optimise cost and performance with budgeting, right-sizing, and workload strategies',
-        'Prepare for certification with mock exam practice and architecture reviews',
-        'Deliver a capstone project: an enterprise-grade architecture design'
+        'Cloud economics, shared responsibility, and GCP resource hierarchy',
+        'IAM, service accounts, and Workload Identity Federation',
+        'Compute, GKE, Cloud Run, serverless options and trade-offs',
+        'GCS, networking, load balancing, hybrid connectivity',
+        'BigQuery, Dataflow, Pub/Sub, Vertex AI, and data lakehouse patterns',
+        'Security: Cloud Armor, KMS, VPC-SC, SCC, BeyondCorp Enterprise',
+        'Anthos, Terraform on GCP, Cloud Build, and migration strategies',
+        'HA, scalability, org design, microservices, FinOps, and Well-Architected reviews',
+        'PCA exam preparation with full case study analysis'
       ],
       prerequisites: [
-        'Basic understanding of cloud computing and networking concepts',
-        'Comfort with the command line is helpful but not mandatory',
-        'No prior Google Cloud experience required; concepts are taught from fundamentals'
+        'Basic computer literacy and comfort navigating a web browser',
+        'Any prior exposure to networking, Linux, or IT administration is helpful but not required',
+        'No prior GCP or cloud platform experience is necessary — introduced from Module 01',
+        'Willingness to engage with hands-on GCP Console and gcloud CLI lab exercises'
       ],
       whoCanJoin: [
-        'Cloud architects and solution architects designing on Google Cloud',
-        'Cloud engineers and platform engineers working on enterprise GCP environments',
-        'DevOps engineers aiming to strengthen architecture and reliability expertise',
-        'Security and compliance professionals building cloud architecture governance skills',
-        'IT professionals and career changers preparing for cloud architect roles'
+        'Complete beginners — start from fundamentals to enterprise GCP architectures',
+        'Cloud / IT engineers deepening GCP expertise and PCA certification',
+        'AWS / Azure professionals adding GCP for multi-cloud careers',
+        'Solutions architects designing scalable, secure, cost-efficient cloud solutions',
+        'DevOps engineers extending CI/CD into GCP platform and architecture design',
+        'IT graduates and career changers building a PCA-aligned foundation'
       ],
       distinctness:
-        'You graduate with architecture-ready skills: you can design, secure, and operate production workloads on Google Cloud while making informed decisions across reliability, security, performance, and cost. The capstone project demonstrates practical readiness for real enterprise scenarios.'
+        'One programme from zero to PCA-ready architect: AI and data strengths (Vertex AI, BigQuery, Dataflow), Zero Trust and org-level governance, Anthos for hybrid/multi-cloud, dedicated module on all four official PCA case studies, and FinOps plus Well-Architected design reviews — fewer prep courses cover case studies at this depth.'
     },
     modules: [
-      {
-        title: '1. Introduction to Cloud Architecture on Google Cloud',
-        topics: ['Cloud architecture principles', 'Key GCP services overview', 'Architecture design workflow and reference patterns']
-      },
-      {
-        title: '2. Compute Architecture & Autoscaling',
-        topics: ['Compute options and selection', 'Autoscaling strategies', 'Load balancing patterns and traffic management']
-      },
-      {
-        title: '3. Storage & Data Architecture',
-        topics: ['Storage service selection', 'Data lifecycle and organisation', 'Data architecture patterns and integration points']
-      },
-      {
-        title: '4. Networking & Connectivity',
-        topics: ['VPC, subnets, and routing', 'DNS and traffic routing concepts', 'Secure connectivity patterns and hybrid scenarios']
-      },
-      {
-        title: '5. Identity, Access, and IAM',
-        topics: ['IAM model and role strategy', 'Service accounts and workload identity concepts', 'Access governance and least privilege']
-      },
-      {
-        title: '6. Reliability, Monitoring, and Operations',
-        topics: ['Reliability concepts and SRE practices', 'Monitoring and alerting readiness', 'Logging and operational workflows']
-      },
-      {
-        title: '7. Security & Governance in GCP',
-        topics: ['Security architecture foundations', 'Encryption and key management concepts', 'Organisation policies and governance guardrails']
-      },
-      {
-        title: '8. Cost & Performance Optimisation',
-        topics: ['Cost management strategies', 'Right-sizing and workload tuning', 'Performance considerations and optimisation approaches']
-      },
-      {
-        title: '9. Solution Review Scenarios & Architecture Pattern Practice',
-        topics: ['Scenario-based architecture reviews', 'Trade-off analysis', 'Applying best practices across domains']
-      },
-      {
-        title: '10. Exam Preparation & Architecture Capstone Project',
-        topics: ['Certification exam preparation and mock exams', 'Domain-wise review strategy', 'Capstone: design an enterprise-grade cloud architecture']
-      }
+      { title: '1. Introduction to Cloud Computing', topics: ['What cloud computing is', 'IaaS vs PaaS vs SaaS', 'Public, private, hybrid, and multi-cloud models', 'Shared responsibility model', 'Cloud economics and total cost of ownership (TCO) fundamentals'] },
+      { title: '2. Google Cloud Platform Overview & Console Navigation', topics: ['GCP global infrastructure: Regions, Zones, Points of Presence', 'GCP Console walkthrough', 'Cloud Shell', 'gcloud CLI basics', 'Projects, billing accounts, and the GCP resource hierarchy'] },
+      { title: '3. Identity & Access Management (IAM)', topics: ['Principals, roles (primitive, predefined, custom), policies', 'Resource-level bindings', 'Service accounts', 'Workload Identity Federation', 'IAM best practices including least privilege'] },
+      { title: '4. Google Compute Engine (GCE)', topics: ['VM instance types and machine families', 'Creating and managing VMs', 'Instance templates and managed instance groups (MIGs)', 'Preemptible and Spot VMs', 'Startup scripts'] },
+      { title: '5. Google Cloud Storage (GCS)', topics: ['Storage classes: Standard, Nearline, Coldline, Archive', 'Bucket configuration', 'Object lifecycle policies', 'Versioning', 'Uniform bucket-level access', 'Signed URLs', 'IAM vs ACL access control'] },
+      { title: '6. Virtual Private Cloud (VPC) Networking Fundamentals', topics: ['VPC architecture', 'Subnets (auto vs custom mode)', 'IP addressing', 'Firewall rules', 'Routes', 'Cloud DNS', 'Cloud NAT', 'Default vs custom VPC networks'] },
+      { title: '7. GCP Billing, Cost Management & Quotas', topics: ['Billing accounts', 'Budgets and alerts', 'GCP Pricing Calculator', 'Committed use discounts (CUDs) and sustained use discounts (SUDs)', 'Quota management', 'Cost allocation with labels'] },
+      { title: '8. Google Cloud Databases — Fundamentals', topics: ['Cloud SQL, Cloud Spanner, Firestore, Bigtable, Memorystore', 'Choosing the right database for structured, semi-structured, and unstructured workloads'] },
+      { title: '9. Advanced Networking', topics: ['Cloud Load Balancing (HTTP(S), TCP/SSL, Internal)', 'Cloud CDN', 'VPC Peering, Shared VPC', 'Cloud Interconnect (Dedicated and Partner)', 'Cloud VPN (HA VPN)', 'Network Intelligence Center'] },
+      { title: '10. Google Kubernetes Engine (GKE)', topics: ['Kubernetes fundamentals', 'GKE Standard vs Autopilot', 'Node pools, workloads, services, ingress', 'Helm', 'Cluster security', 'GKE Monitoring'] },
+      { title: '11. Serverless & PaaS Compute', topics: ['Cloud Run', 'Cloud Functions', 'App Engine (Standard and Flexible)', 'Cloud Endpoints', 'Choosing serverless options by workload'] },
+      { title: '12. Data & Analytics Services', topics: ['BigQuery', 'Cloud Dataflow (Apache Beam)', 'Cloud Dataproc', 'Pub/Sub', 'Looker Studio', 'End-to-end analytics pipelines'] },
+      { title: '13. AI & ML on Google Cloud', topics: ['Vertex AI: AutoML, custom training, model serving', 'Pre-built AI APIs (Vision, NL, Speech, Translation)', 'BigQuery ML', 'Integrating AI into architecture designs'] },
+      { title: '14. GCP Security Services', topics: ['Cloud Armor (DDoS and WAF)', 'Secret Manager', 'Cloud KMS', 'VPC Service Controls', 'Binary Authorization', 'Security Command Center (SCC)', 'Defence-in-depth on GCP'] },
+      { title: '15. Monitoring, Logging & Observability', topics: ['Cloud Monitoring: metrics, dashboards, uptime checks, alerting', 'Cloud Logging: sinks, log-based metrics, audit logs', 'Cloud Trace', 'Cloud Profiler', 'Error Reporting'] },
+      { title: '16. Hybrid & Multi-Cloud with Anthos', topics: ['Anthos architecture', 'Anthos Config Management', 'Anthos Service Mesh (Istio)', 'GKE on-premises with Anthos clusters', 'Extending GCP governance to multi-cloud'] },
+      { title: '17. DevOps & CI/CD on GCP', topics: ['Cloud Build', 'Cloud Deploy (progressive delivery)', 'Artifact Registry', 'Source Repositories', 'Container Registry', 'GitOps with Argo CD on GKE'] },
+      { title: '18. Infrastructure as Code with Terraform on GCP', topics: ['Terraform GCP provider', 'State backend with GCS', 'Modules, workspaces, import', 'Reusable infrastructure modules'] },
+      { title: '19. Migration Strategies to GCP', topics: ['The 6 Rs migration framework', 'Google Cloud Migration Centre', 'Migrate to Virtual Machines', 'Database Migration Service', 'Transfer Appliance', 'Phased enterprise migrations'] },
+      { title: '20. Designing Highly Available & Resilient Architectures', topics: ['Multi-region and multi-zone patterns', 'Global load balancing', 'Cloud Spanner for multi-region consistency', 'RTO/RPO planning', 'Health checks, failover strategies', 'GCP SLA composition model'] },
+      { title: '21. Scalability & Performance Architecture', topics: ['Auto-scaling for GCE, GKE, Cloud Run', 'Caching with Memorystore and CDN', 'Cloud Bigtable for low-latency throughput', 'Right-sizing for cost-performance balance'] },
+      { title: '22. Enterprise Security Architecture & Zero Trust', topics: ['BeyondCorp Enterprise', 'Context-aware access', 'VPC Service Controls perimeters', 'Organisation-level security policies', 'Data residency', 'CMEK with Cloud KMS', 'GDPR/HIPAA compliance on GCP'] },
+      { title: '23. Google Cloud Organisation & Resource Hierarchy Design', topics: ['Organisation structure', 'Folder hierarchy', 'Project naming', 'Policy inheritance', 'Shared VPC for enterprise', 'Constraints for governance at scale'] },
+      { title: '24. Microservices & Event-Driven Architecture on GCP', topics: ['Microservices on Cloud Run and GKE', 'Anthos Service Mesh', 'Pub/Sub and Eventarc', 'Apigee for API design', 'Asynchronous decoupled patterns'] },
+      { title: '25. Data Architecture & Lakehouse Design on GCP', topics: ['Data lakes with GCS + BigQuery', 'Streaming with Dataflow + Pub/Sub', 'BigLake', 'Dataplex for governance', 'OLAP + OLTP hybrid architectures'] },
+      { title: '26. Cost Optimisation & FinOps on GCP', topics: ['GCP FinOps framework', 'CUD and SUD strategy', 'Spot VM patterns', 'Active Assist rightsizing', 'Billing export to BigQuery', 'Tagging-based chargeback'] },
+      { title: '27. GCP Well-Architected Framework & Design Reviews', topics: ['Operational Excellence, Security, Reliability, Performance, Cost, Sustainability pillars', 'Applying the framework to evaluate and improve designs'] },
+      { title: '28. PCA Exam Preparation, Case Studies & Capstone Project', topics: ['Full-length PCA mock examinations', 'Official case study analysis: EHR Healthcare, Helicopter Racing League, Mountkirk Games, TerramEarth', 'Exam strategy', 'End-to-end capstone architecture project'] }
     ],
     learningModes: [
-      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Dedicated mentor support with guided architecture labs.', buttonText: 'GET STARTED' },
-      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live instructor-led batches with practical GCP architecture exercises.', buttonText: 'ENROLL NOW' },
-      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customized corporate training for teams designing solutions on GCP.', buttonText: 'CONTACT US' }
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Dedicated mentor support with guided GCP architecture labs.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live instructor-led batches with hands-on GCP exercises.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customised enterprise training for architecture and engineering teams.', buttonText: 'CONTACT US' }
     ],
     benefits: [
-      { title: 'Architecture-Ready Skills', icon: 'arch', description: 'Design secure and reliable cloud architectures with confidence.' },
-      { title: 'Production-Grade Mindset', icon: 'prod', description: 'Reliability, operations, and governance practices for enterprise readiness.' },
-      { title: 'Security and IAM Focus', icon: 'sec', description: 'Least privilege access design and security foundations.' },
-      { title: 'Networking & Data Design', icon: 'net', description: 'Networking, connectivity, and data architecture patterns.' },
-      { title: 'Cost and Performance Optimisation', icon: 'cost', description: 'Practical strategies for efficient cloud operations.' },
-      { title: 'Capstone Project', icon: 'cap', description: 'Deliver an architecture capstone to showcase your readiness.' }
+      { title: 'One Programme — Zero to PCA Architect', icon: '✓', description: 'Single structured path from cloud basics to production-grade GCP architecture.' },
+      { title: 'Google’s Premier Cloud Credential', icon: '📜', description: 'PCA is consistently among the highest-paying IT certifications globally.' },
+      { title: 'Hands-On GCP Labs', icon: '🧪', description: 'Real Console and gcloud exercises in every module.' },
+      { title: 'AI & Data Strength', icon: '🤖', description: 'Vertex AI, BigQuery, Dataflow, Pub/Sub — aligned to enterprise demand.' },
+      { title: 'Zero Trust & Compliance', icon: '🛡️', description: 'BeyondCorp, VPC-SC, SCC, and org-level policies for regulated industries.' },
+      { title: 'Official Case Studies', icon: '📋', description: 'All four Google PCA case studies analysed — a differentiator on the exam.' },
+      { title: 'Anthos & Multi-Cloud', icon: '☁️', description: 'Hybrid and multi-cloud skills for enterprise architect roles.' },
+      { title: 'Top-Tier Salary Potential', icon: '💼', description: 'PCA features in global salary surveys for certified architects.' }
     ],
     faqs: [
       {
-        question: 'Do I need prior Google Cloud experience to join?',
-        answer: 'No. Basic cloud and networking understanding is helpful, but the programme starts with fundamentals and teaches Google Cloud concepts from the ground up.'
+        question: 'Can I join with no prior cloud or GCP experience?',
+        answer: 'Yes. The programme begins from cloud computing fundamentals and GCP basics in Module 01. No prior knowledge of GCP or infrastructure is required to enrol and succeed.'
       },
       {
-        question: 'Is this course aligned to the Google Professional Cloud Architect exam?',
-        answer: 'Yes. The curriculum focuses on the areas expected from cloud architects, and includes exam preparation support and architecture scenario practice.'
+        question: 'How is the curriculum structured across the three levels?',
+        answer: 'Modules 01–08 cover cloud fundamentals, core GCP services (compute, storage, networking, IAM, databases), and cost management. Modules 09–19 cover GKE, serverless, data and analytics, security, Anthos, DevOps, Terraform, and migration. Modules 20–28 cover advanced architecture — HA design, scalability, Zero Trust security, org governance, microservices, data lakes, FinOps, the GCP Well-Architected Framework, and full PCA exam preparation with case study analysis.'
       },
       {
-        question: 'Will I work on real architecture scenarios?',
-        answer: 'Yes. You will complete scenario-based exercises and a capstone project to design an enterprise-grade architecture.'
+        question: 'What makes this programme different for PCA exam preparation?',
+        answer: 'The PCA exam includes real-world case studies that many courses skim. This programme dedicates a full module to analysing all four official Google PCA case studies — EHR Healthcare, Helicopter Racing League, Mountkirk Games, and TerramEarth — giving you a structured approach to case-based questions.'
       },
       {
-        question: 'Is corporate training available?',
-        answer: 'Yes. We offer customized corporate training programmes tailored to your teams and cloud architecture goals.'
+        question: 'Is the Google PCA exam fee included in the course fee?',
+        answer: 'The training fee covers all instruction, lab environments, and exam preparation materials. The official Google Professional Cloud Architect exam fee is paid separately via the Google Cloud Certification portal at the time of scheduling.'
+      },
+      {
+        question: 'What roles can I target after completing this programme?',
+        answer: 'Graduates are well-positioned for Google Cloud Architect, Cloud Solutions Architect, Platform Engineer, Cloud Infrastructure Architect, GCP Consultant, and Principal Cloud Engineer roles globally.'
+      },
+      {
+        question: 'Is corporate or team training available?',
+        answer: 'Yes. Fully customised corporate training is available for cloud architecture and engineering teams, tailored to your organisation’s GCP environment, migration objectives, and skill levels. Contact us for a dedicated proposal and team pricing.'
       }
     ],
-    duration: '35-45 Hours',
+    duration: '35-50 Hours',
     mode: 'Online',
     icon: 'gcp',
-    heroSubtitle: 'Google Professional Cloud Architect'
+    tools: [
+      'Compute Engine', 'GKE', 'Cloud Run', 'Cloud Functions', 'App Engine', 'Cloud Storage', 'Cloud SQL', 'Cloud Spanner', 'Cloud VPC',
+      'BigQuery', 'Cloud Dataflow', 'Cloud Dataproc', 'Pub/Sub', 'Vertex AI', 'BigLake', 'Dataplex', 'Looker Studio',
+      'Cloud Load Balancing', 'Cloud Armor', 'Cloud KMS', 'Secret Manager', 'Security Command Center', 'BeyondCorp Enterprise', 'VPC Service Controls', 'Anthos',
+      'Terraform (GCP)', 'Cloud Build', 'Cloud Deploy', 'Artifact Registry', 'Cloud Monitoring', 'Cloud Logging', 'gcloud CLI', 'GitHub Actions'
+    ],
+    heroSubtitle: 'Google Professional Cloud Architect (PCA)'
+  },
+  'tableau-data-analyst-training': {
+    slug: 'tableau-data-analyst-training',
+    title: 'Tableau Data Analyst Training',
+    category: 'Data Analytics',
+    heroDescription:
+      'Tableau · Salesforce · Data Analytics · Scratch to Advanced. A comprehensive, structured training programme that takes you from data analysis fundamentals and Tableau basics all the way to designing enterprise-grade dashboards, building advanced calculated fields, working with complex data models, and publishing production-ready analytics solutions — aligned to the Tableau Desktop Specialist and Tableau Certified Data Analyst certifications. Duration: 25–40 Hours. Certifications: Tableau Desktop Specialist · Tableau Certified Data Analyst. Mode: Live Online / 1-to-1 / Corporate. Level: Scratch to Advanced. Rating: 4.8 / 5.0.',
+    heroBannerImage: '/course-banners/azure-power-bi-training.png',
+    callToAction: 'Request Callback',
+    highlights: [
+      'Tableau Desktop Specialist & Certified Data Analyst exam alignment',
+      '27 modules across Beginner, Intermediate, and Advanced tiers',
+      'SQL, Excel, Tableau Prep, and enterprise publishing on Server/Cloud',
+      'LOD expressions, table calculations, and dashboard interactivity',
+      'Capstone: multi-source executive dashboard with row-level security',
+      'Full mock exams for Specialist and Analyst certifications'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Tableau Data Analyst Training from InsureTech Skills?',
+      overview:
+        'Structured across three tiers so learners with no prior analytics or Tableau experience can reach proficiency in visual analytics, dashboard design, and data storytelling — with hands-on Tableau Desktop exercises using real-world datasets and a production-ready capstone.',
+      whyChoose:
+        'Tableau is used by over 100,000 organisations worldwide. This programme takes you from data fundamentals, SQL, and Excel through advanced LOD expressions, statistical analytics, Tableau Server/Cloud governance, and integration with modern cloud warehouses — in one journey.',
+      keyFeatures: [
+        'Dual certification prep: Desktop Specialist and Certified Data Analyst',
+        'Hands-on labs with real business datasets',
+        'Tableau Prep Builder and complex data modelling',
+        'Publishing, permissions, and row-level security (RLS)',
+        'Mock examinations with answer reviews'
+      ],
+      whatYouWillLearn: [
+        'Data analytics types, workflow, and visualisation for decisions',
+        'Excel, SQL, and data preparation for Tableau',
+        'Tableau workspace, connections, extracts, and data cleaning',
+        'Calculated fields, table calculations, and LOD expressions (FIXED, INCLUDE, EXCLUDE)',
+        'Maps, dashboard design, actions, and data storytelling',
+        'Tableau Server/Cloud publishing, governance, and cloud data stack integration',
+        'Statistical analysis, performance optimisation, and certification readiness'
+      ],
+      prerequisites: [
+        'Basic computer literacy and comfort with spreadsheets (Excel or Google Sheets)',
+        'Prior BI or reporting exposure is helpful but not required',
+        'No prior Tableau, SQL, or programming required — taught progressively from Module 01',
+        'Willingness to practise hands-on Tableau Desktop exercises throughout'
+      ],
+      whoCanJoin: [
+        'Complete beginners entering data analytics',
+        'Business analysts turning data into decisions',
+        'Excel/reporting analysts upgrading to interactive Tableau dashboards',
+        'Data professionals adding Tableau on top of SQL or Python',
+        'Finance and operations professionals building self-service KPI dashboards',
+        'Graduates and career changers entering analytics with certification alignment'
+      ],
+      distinctness:
+        'Earn two Salesforce-backed credentials while mastering LOD expressions (the most powerful Tableau feature), enterprise Server/Cloud skills most courses skip, and integration with Snowflake, BigQuery, Synapse, Redshift, and Databricks — plus a portfolio-ready capstone dashboard with RLS.'
+    },
+    modules: [
+      { title: '1. Introduction to Data Analytics', topics: ['What data analytics is', 'Descriptive, diagnostic, predictive, prescriptive analytics', 'Data analytics workflow', 'Roles: analyst, engineer, scientist', 'Why visualisation matters for business decisions'] },
+      { title: '2. Data Fundamentals — Types, Structures & Sources', topics: ['Structured vs unstructured vs semi-structured data', 'Quantitative vs qualitative; discrete vs continuous', 'Sources: databases, spreadsheets, APIs, flat files', 'Data quality dimensions', 'Introduction to the data pipeline'] },
+      { title: '3. Introduction to Excel & Spreadsheet Analytics', topics: ['Formulas and functions (SUM, VLOOKUP, IF, INDEX/MATCH)', 'Pivot tables', 'Charts, sorting, filtering', 'Conditional formatting', 'Preparing structured datasets for Tableau'] },
+      { title: '4. SQL for Data Analysts', topics: ['SELECT, WHERE, ORDER BY, GROUP BY, HAVING', 'Aggregates', 'JOINs (INNER, LEFT, RIGHT, FULL)', 'Subqueries and CTEs', 'Queries to prepare data for visual analysis'] },
+      { title: '5. Introduction to Tableau Desktop', topics: ['Tableau product family (Desktop, Public, Server, Online, Prep)', 'Installing Tableau Desktop', 'Workspace layout', 'Connecting to data', 'Dimensions vs measures', 'First visualisations'] },
+      { title: '6. Core Chart Types in Tableau', topics: ['Bar, line, area, scatter, pie, treemap, heat map, highlight table', 'When to use each', 'Basic formatting for readability'] },
+      { title: '7. Connecting to & Managing Data Sources', topics: ['Excel, CSV, PDF, Google Sheets, SQL databases', 'Live vs extracts (.hyper)', 'Extract refresh scheduling', 'Data source management'] },
+      { title: '8. Data Preparation & Cleaning in Tableau', topics: ['Nulls, renaming, hiding fields', 'Data types, splitting, pivoting', 'Grouping, aliases', 'Data interpreter for messy data'] },
+      { title: '9. Sorting, Filtering & Grouping', topics: ['Dimension and measure filters', 'Context filters and order of operations', 'Quick filters, relative date, top N', 'Filter actions', 'Sets for dynamic comparisons'] },
+      { title: '10. Calculated Fields & Basic Calculations', topics: ['String, date, number, logical functions', 'IF/THEN, IIF, CASE', 'Profit margin, YoY growth, running totals'] },
+      { title: '11. Table Calculations', topics: ['Scope and direction', 'Running total, percent of total, rank, moving average', 'LOOKUP and WINDOW functions', 'Partitions'] },
+      { title: '12. Level of Detail (LOD) Expressions', topics: ['FIXED, INCLUDE, EXCLUDE', 'Cohort analysis', 'Customer vs order metrics', 'LOD with filters'] },
+      { title: '13. Parameters & Dynamic Analysis', topics: ['Parameter-driven filters and chart types', 'Top N with parameters', 'What-if analysis'] },
+      { title: '14. Maps & Geospatial Analytics', topics: ['Symbol, filled, density maps', 'Dual-axis maps', 'Custom geocoding', 'Shapefiles and GeoJSON', 'Regional performance dashboards'] },
+      { title: '15. Dashboard Design Principles', topics: ['Tiled vs floating, containers, device previews', 'Colour and typography', 'Reducing chart junk', 'Gestalt and accessibility', 'Mobile-responsive dashboards'] },
+      { title: '16. Dashboard Actions & Interactivity', topics: ['Filter, highlight, URL, set, and parameter actions', 'Chaining actions', 'Drill-down navigation', 'Self-service analytics'] },
+      { title: '17. Data Blending & Multi-Source Analysis', topics: ['Blending vs joins vs relationships', 'Blend configuration and limitations', 'Cross-database joins', 'Multi-source analyses'] },
+      { title: '18. Tableau Prep Builder — Data Wrangling', topics: ['Flow-based preparation', 'Pivot, aggregate, join, union', 'Profile pane', 'Output to extract', 'Scheduling Prep on Server/Online'] },
+      { title: '19. Advanced Chart Types & Visual Best Practices', topics: ['Waterfall, Gantt, bullet, box-and-whisker, bump, slope, dumbbell', 'Custom shapes, dual-axis', 'Pixel-perfect formatting'] },
+      { title: '20. Statistical Analysis in Tableau', topics: ['Trend lines', 'Reference lines/bands', 'Forecasting', 'Box plots', 'Clusters', 'R and Python via TabPy and Rserve'] },
+      { title: '21. Advanced Data Modelling — Relationships & Logical Layer', topics: ['Logical vs physical layer', 'Relationships, cardinality, integrity', 'Multi-table models', 'Context-aware aggregation', 'Performance implications'] },
+      { title: '22. Performance Optimisation', topics: ['Performance Recorder', 'Slow queries', 'Extract vs live', 'Reducing marks', 'Optimising LOD and table calcs', 'Query caching'] },
+      { title: '23. Tableau Server & Tableau Online — Publishing & Governance', topics: ['Publishing workbooks and data sources', 'Permissions, projects, sites', 'RLS', 'Usage analytics', 'Embedding', 'Scheduled refreshes'] },
+      { title: '24. Storytelling with Data & Executive Reporting', topics: ['Tableau Stories', 'Narratives for executives', 'Annotations', 'Progressive disclosure', 'Board-level dashboards'] },
+      { title: '25. Tableau with Cloud & Modern Data Stacks', topics: ['BigQuery, Snowflake, Azure Synapse, Amazon Redshift, Databricks', 'Virtual connections', 'Accelerators', 'dbt and cloud warehouses'] },
+      { title: '26. Capstone Project — End-to-End Analytics Dashboard', topics: ['Multi-source connection', 'Prep cleaning', 'Complex model', 'LOD and table calcs', 'Interactive executive dashboard', 'Publishing to Tableau Cloud with RLS'] },
+      { title: '27. Certification Preparation & Mock Examinations', topics: ['Mock exams for Desktop Specialist and Certified Data Analyst', 'Domain review', 'Exam strategy and scheduling guidance'] }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Personalised Tableau mentoring and portfolio feedback.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live online batches with hands-on Tableau Desktop labs.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Custom enterprise analytics training for teams.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      { title: 'Two Salesforce Certifications', icon: '📜', description: 'Prepare for Tableau Desktop Specialist and Tableau Certified Data Analyst.' },
+      { title: '27-Module Curriculum', icon: '📚', description: 'Beginner, Intermediate, and Advanced tiers with progressive complexity.' },
+      { title: 'Real-World Datasets', icon: '📊', description: 'Authentic business scenarios for your portfolio.' },
+      { title: 'LOD Mastery', icon: '🎯', description: 'Dedicated module on FIXED, INCLUDE, and EXCLUDE expressions.' },
+      { title: 'Data Storytelling', icon: '💬', description: 'Executive narratives, progressive disclosure, and board-ready dashboards.' },
+      { title: 'Modern Data Stack', icon: '☁️', description: 'Connect to Snowflake, BigQuery, Synapse, Redshift, Databricks.' },
+      { title: 'Server & Governance', icon: '🛡️', description: 'Publishing, RLS, and enterprise analytics operations.' },
+      { title: 'High-Demand Analyst Roles', icon: '📈', description: 'Tableau certification is widely listed in analyst job descriptions globally.' }
+    ],
+    faqs: [
+      {
+        question: 'Can I join with no prior Tableau or data analytics experience?',
+        answer: 'Yes. The programme begins with data analytics fundamentals, data types, and Excel basics before introducing Tableau Desktop. No prior Tableau, SQL, or analytics tool experience is required.'
+      },
+      {
+        question: 'How is the curriculum structured across the three levels?',
+        answer: 'Modules 01–08 cover analytics concepts, Excel, SQL, Tableau introduction, chart types, connections, and cleaning. Modules 09–18 cover filtering, calculations, table calculations, LOD, parameters, maps, dashboards, blending, and Prep. Modules 19–27 cover advanced charts, statistics, data modelling, performance, Server/Cloud, storytelling, modern stacks, capstone, and certification prep.'
+      },
+      {
+        question: 'Which Tableau certifications does this programme prepare me for?',
+        answer: 'The Tableau Desktop Specialist (foundational) and the Tableau Certified Data Analyst (advanced analytics design, LOD, and dashboard practices). Both are issued by Salesforce.'
+      },
+      {
+        question: 'Will I build a real dashboard project I can show employers?',
+        answer: 'Yes. Module 26 is an end-to-end capstone: multi-source data, Prep, complex model, LOD and table calculations, interactive executive dashboard, and publishing to Tableau Cloud with row-level security.'
+      },
+      {
+        question: 'Will I receive access to recorded sessions?',
+        answer: 'Yes. Enrolled learners receive lifetime access to recorded class sessions for flexible revision after live training concludes.'
+      },
+      {
+        question: 'Is corporate or team training available?',
+        answer: 'Yes. Fully customised corporate Tableau programmes are available for analytics, BI, and reporting teams. Contact us for a dedicated proposal and team pricing.'
+      }
+    ],
+    duration: '25-40 Hours',
+    mode: 'Online',
+    icon: 'tableau',
+    tools: [
+      'Tableau Desktop', 'Tableau Prep', 'Tableau Server', 'Tableau Cloud', 'SQL', 'Excel',
+      'Snowflake', 'BigQuery', 'Azure Synapse', 'Amazon Redshift', 'Databricks'
+    ],
+    heroSubtitle: 'Desktop Specialist & Data Analyst'
+  },
+
+  'databricks-associate-training': {
+    slug: 'databricks-associate-training',
+    title: 'Databricks Associate Training',
+    category: 'Data Engineering',
+    heroDescription:
+      'Databricks Lakehouse Platform — master Delta Lake, Apache Spark, PySpark, LakeFlow Pipelines, Unity Catalog, and Databricks SQL. Fully aligned with the Databricks Certified Data Engineer Associate (DCDEA) exam (July 2025 syllabus). Live instructor-led · 55+ hours · multi-cloud (AWS, Azure, GCP) · 10+ labs · 2 capstone projects · mock exam with 45 scenario-based questions.',
+    heroBannerImage: '/course-banners/microsoft-fabric-analytics-engineer-associate.png',
+    callToAction: 'Request Callback',
+    highlights: [
+      'DCDEA exam prep — July 2025 updated syllabus with 45-question mock exam',
+      '55+ hours live instructor-led · Intermediate to Advanced',
+      'Multi-cloud concepts: AWS, Azure & GCP (labs on Azure free trial)',
+      '11 modules · 10+ hands-on labs · 2 capstone projects (Medallion + Databricks SQL)',
+      'Delta Lake, PySpark, LakeFlow Pipelines & Jobs, Unity Catalog, Databricks SQL',
+      '1-on-1 mentoring, lifetime access to materials, and career support'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Databricks Associate Training from InsureTech Skills?',
+      overview:
+        'Databricks is the world\'s leading Data and AI company — used by over 10,000 organizations globally, including more than 60% of the Fortune 500. Founded by the creators of Apache Spark, Delta Lake, and MLflow, Databricks has built the Lakehouse Platform — a unified architecture that combines the best of data warehouses and data lakes into a single, open platform for data engineering, analytics, and AI. It runs natively on AWS, Azure, and Google Cloud.\n\nThis comprehensive training covers the complete Databricks Data Engineer Associate syllabus — fully updated for the July 2025 exam guide. You will learn Lakehouse architecture, Delta Lake ACID transactions and time travel, PySpark and Spark SQL for ETL, LakeFlow Pipelines and Jobs, structured streaming with Autoloader, Unity Catalog governance, and Databricks SQL dashboards. By the end, you will be fully prepared for the Databricks Certified Data Engineer Associate (DCDEA) certification and enterprise-level data engineering roles across the USA, Canada, and Europe.',
+      whyChoose:
+        'You train with Databricks-certified expert instructors in live sessions with hands-on guidance. The programme balances exam readiness with job-ready skills: real pipelines in Databricks, portfolio-worthy capstones, mock exams with full explanations, and career support including resume and interview prep.',
+      keyFeatures: [
+        'Live instructor-led training with Databricks-certified experts',
+        'July 2025 DCDEA syllabus — Lakehouse, Delta ETL, incremental processing, pipelines, governance',
+        '10+ hands-on labs and 2 capstone projects (Medallion architecture + Databricks SQL analytics)',
+        'Mock exams: 45 scenario-based questions with detailed explanations',
+        'Multi-cloud coverage; hands-on labs use Databricks on Azure (14-day trial) with skills transferable to AWS and GCP',
+        'EST, GMT, and IST batch options · lifetime access to notebooks, recordings, and materials'
+      ],
+      whatYouWillLearn: [
+        'Databricks Lakehouse Platform — architecture, workspace and clusters',
+        'Delta Lake — ACID transactions, time travel, schema evolution and Z-ordering',
+        'Apache Spark fundamentals — RDDs, DataFrames, transformations and actions',
+        'PySpark and Spark SQL — ETL pipelines for batch and incremental processing',
+        'Multi-hop (Medallion) architecture — Bronze, Silver and Gold layers',
+        'LakeFlow Declarative Pipelines — streaming tables and materialized views',
+        'Structured Streaming with Autoloader — incremental file ingestion at scale',
+        'LakeFlow Jobs — orchestrating and scheduling ETL workflows',
+        'Unity Catalog — data governance, permissions, lineage and data sharing',
+        'Databricks SQL — warehouses, dashboards, alerts and parameterized queries',
+        'Databricks Asset Bundles — CI/CD for Databricks workflows with Git',
+        'DCDEA certification exam preparation — July 2025 updated syllabus'
+      ],
+      prerequisites: [
+        'Basic Python and SQL — loops, functions, SELECT queries and JOINs',
+        'Some exposure to data engineering or big data tools (Spark, Hadoop, cloud) is helpful but not mandatory',
+        'No prior Databricks experience required',
+        'System: modern PC or Mac with a web browser; 4GB RAM minimum; stable internet; VS Code recommended',
+        'Education: engineering, computer science or data background; 1–2 years of data engineering or software development experience is recommended'
+      ],
+      whoCanJoin: [
+        'Data engineers, software developers, data analysts, and ETL developers',
+        'Cloud architects and professionals moving from on-premises stacks to the Databricks Lakehouse',
+        'Those with Spark, Hadoop, Hive, or SQL Server backgrounds',
+        'Professionals switching from Oracle, SQL Server, Hive, or traditional ETL tools'
+      ],
+      distinctness:
+        'Full alignment to the July 2025 DCDEA exam guide with domain-weighted coverage — Lakehouse Platform (24%), Delta Lake ETL (29%), Incremental Processing (22%), Production Pipelines (16%), Data Governance (9%). Includes LakeFlow (successor to classic DLT naming in the exam context), Autoloader, Unity Catalog, Asset Bundles, liquid clustering, and AI/BI dashboards — plus two capstones and a 45-question mock exam with explanations.'
+    },
+    modules: [
+      {
+        title: '1. Databricks Lakehouse Platform & Workspace',
+        topics: [
+          'What is a Data Lakehouse? — combining data lake flexibility with data warehouse reliability',
+          'Databricks platform architecture — cloud provider integration, control plane and data plane',
+          'Workspace navigation — clusters, notebooks, repos, jobs, SQL and machine learning',
+          'Cluster types and configuration — all-purpose vs job clusters, runtime versions',
+          'Databricks File System (DBFS) — storage abstraction and mounts'
+        ]
+      },
+      {
+        title: '2. Delta Lake Fundamentals',
+        topics: [
+          'What is Delta Lake? — open-source storage layer built on Parquet',
+          'ACID transactions on data lakes — atomicity, consistency, isolation, durability',
+          'Delta table creation — managed vs external tables, CREATE TABLE syntax',
+          'Reading and writing Delta tables — batch and streaming modes',
+          'Delta table history and time travel — DESCRIBE HISTORY, VERSION AS OF, TIMESTAMP AS OF',
+          'Schema enforcement and schema evolution — mergeSchema and overwriteSchema',
+          'Lab: Creating a Delta Lake pipeline with time travel and schema evolution'
+        ]
+      },
+      {
+        title: '3. Delta Lake Advanced — Optimization & Operations',
+        topics: [
+          'Delta Lake file management — small file problem and OPTIMIZE command',
+          'Z-ordering — multi-dimensional clustering for query performance',
+          'Liquid Clustering — the modern replacement for partitioning in Databricks',
+          'VACUUM — removing old Delta files and managing storage costs',
+          'CLONE — deep and shallow table cloning for testing and backups',
+          'Table constraints and data quality enforcement in Delta Lake'
+        ]
+      },
+      {
+        title: '4. Apache Spark & PySpark for Data Engineers',
+        topics: [
+          'Spark architecture — Driver, Executors, shuffle and the DAG execution model',
+          'PySpark DataFrames — creation, transformations (select, filter, join, groupBy) and actions',
+          'Reading and writing data — CSV, JSON, Parquet, Delta with PySpark',
+          'Handling null values, data type casting and complex data types (arrays, structs, maps)',
+          'User Defined Functions (UDFs) — Python UDFs and Pandas UDFs (vectorized)',
+          'Spark SQL — running SQL queries from Python notebooks with createOrReplaceTempView',
+          'Lab: Building an ETL transformation pipeline using PySpark and Spark SQL'
+        ]
+      },
+      {
+        title: '5. Multi-Hop (Medallion) Architecture — ELT in Databricks',
+        topics: [
+          'Medallion architecture overview — Bronze, Silver and Gold layers and their purposes',
+          'Bronze layer — raw data ingestion from cloud storage with schema-on-read',
+          'Silver layer — data cleansing, deduplication, joins and data quality enforcement',
+          'Gold layer — business-level aggregations, KPIs and reporting tables',
+          'MERGE (UPSERT) operations — slowly changing dimensions (SCD Type 1 and Type 2)',
+          'Lab: Building a complete 3-layer Medallion pipeline on real e-commerce data'
+        ]
+      },
+      {
+        title: '6. Structured Streaming & Autoloader',
+        topics: [
+          'Structured Streaming fundamentals — micro-batch and continuous processing',
+          'Reading streams — from Delta Lake, Kafka and cloud storage',
+          'Streaming operations — stateful aggregations, watermarks and late data handling',
+          'Writing streams — append, complete and update output modes, checkpointing',
+          'Autoloader (cloudFiles) — incrementally ingesting new files from cloud storage',
+          'Lab: Building a real-time streaming pipeline with Autoloader into a Delta table'
+        ]
+      },
+      {
+        title: '7. LakeFlow Declarative Pipelines',
+        topics: [
+          'LakeFlow Pipelines overview — the evolution of Delta Live Tables (DLT)',
+          'Streaming Tables and Materialized Views — low-code declarative pipeline authoring',
+          'Data quality constraints — EXPECT, EXPECT OR FAIL, EXPECT OR DROP',
+          'Pipeline modes — continuous vs triggered, development vs production',
+          'Lab: Building a declarative LakeFlow pipeline with data quality rules'
+        ]
+      },
+      {
+        title: '8. LakeFlow Jobs — Orchestration & CI/CD',
+        topics: [
+          'LakeFlow Jobs overview — multi-task workflow orchestration in Databricks',
+          'Job tasks — notebooks, Python scripts, SQL queries, DLT pipelines and more',
+          'Job scheduling — cron, triggers, dependencies and task clusters',
+          'Databricks Asset Bundles (DABs) — CI/CD for Databricks with Git integration',
+          'Lab: Building a multi-task LakeFlow Job with dependencies and failure alerts'
+        ]
+      },
+      {
+        title: '9. Unity Catalog — Data Governance',
+        topics: [
+          'Unity Catalog architecture — three-level namespace: catalog, schema, table',
+          'Metastore, workspaces and identity federation in Unity Catalog',
+          'Data object permissions — GRANT, REVOKE and SHOW GRANTS',
+          'Row-level security (RLS) and column-level masking for sensitive data',
+          'Data lineage — tracking data origin and transformations automatically',
+          'Delta Sharing — securely sharing data across organizations and clouds'
+        ]
+      },
+      {
+        title: '10. Databricks SQL — Warehouses & Dashboards',
+        topics: [
+          'Databricks SQL overview — running SQL workloads at scale with serverless warehouses',
+          'SQL Editor — writing, saving and scheduling parameterized queries',
+          'AI/BI Dashboards — building interactive visualizations and reports',
+          'Alerts — setting up query-based threshold alerts and notifications',
+          'Lab: Building a sales analytics dashboard with Databricks SQL and AI/BI'
+        ]
+      },
+      {
+        title: '11. DCDEA Exam Prep & Capstone Project',
+        topics: [
+          'DCDEA exam structure — 45 questions, 90 minutes, passing score 70%, Python and SQL',
+          'Exam domain breakdown — Lakehouse (24%), ETL (29%), Incremental (22%), Pipelines (16%), Governance (9%)',
+          'Full mock exam with 45 scenario-based questions and detailed answer explanations',
+          'Common exam traps — Delta Lake operations, streaming concepts and governance nuances',
+          'Capstone: End-to-end Medallion architecture pipeline with LakeFlow Jobs and Unity Catalog'
+        ]
+      }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Dedicated mentor for doubt clearing, exam strategy, and custom pace.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live instructor-led batches with hands-on Databricks labs.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Custom enterprise Lakehouse training for data engineering teams.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      { title: 'DCDEA Exam Prep', icon: '📜', description: 'July 2025 syllabus, domain-weighted coverage, 45-question mock exam with explanations.' },
+      { title: 'Multi-Cloud Skills', icon: '☁️', description: 'Core concepts apply across AWS, Azure, and GCP; labs use Azure trial with transferable skills.' },
+      { title: 'Live Instructor-Led', icon: '✓', description: 'Databricks-certified expert trainers — real-time sessions with hands-on guidance.' },
+      { title: '10+ Hands-On Labs', icon: '🧪', description: 'Build real pipelines — Delta Lake, Autoloader, LakeFlow, and Unity Catalog.' },
+      { title: '2 Capstone Projects', icon: '🏗️', description: 'End-to-end Medallion pipeline and a Databricks SQL reporting solution.' },
+      { title: 'Delta Lake Deep Dive', icon: '⚡', description: 'Time travel, ACID, Z-ordering, liquid clustering, and schema evolution.' },
+      { title: 'Global Batch Timings', icon: '🌍', description: 'EST, GMT, and IST options for USA, UK, Canada, and India learners.' },
+      { title: 'Career Support', icon: '💼', description: 'Resume, LinkedIn, mock interviews, referrals — plus lifetime access to materials.' }
+    ],
+    faqs: [
+      {
+        question: 'What is the Databricks Certified Data Engineer Associate (DCDEA) exam?',
+        answer:
+          'The DCDEA is Databricks\' foundational data engineering certification. The exam has 45 scored questions (plus possible unscored preview items), 90 minutes, 70% passing score, in Python and SQL. Domains: Lakehouse Platform (24%), Delta Lake ETL (29%), Incremental Processing (22%), Production Pipelines (16%), Data Governance (9%).'
+      },
+      {
+        question: 'Is this course updated for the July 2025 exam syllabus?',
+        answer:
+          'Yes. The course follows the July 2025 Databricks Certified Data Engineer Associate exam guide, including LakeFlow Declarative Pipelines, LakeFlow Jobs, Databricks Asset Bundles (DABs), Liquid Clustering, Unity Catalog enhancements, and Databricks AI/BI dashboards. Content is updated as the platform evolves.'
+      },
+      {
+        question: 'Do I need prior Spark or Databricks experience?',
+        answer:
+          'No prior Databricks experience is required. You need basic Python and SQL comfort. Module 4 covers Apache Spark and PySpark in depth. Backgrounds in Hadoop, Hive, AWS Glue, Azure Data Factory, or traditional ETL map well to this course.'
+      },
+      {
+        question: 'What is the average salary for a Databricks Data Engineer in the USA?',
+        answer:
+          'In the USA, Databricks-certified engineers often see roughly $130,000–$170,000+ annually depending on role and location (e.g. LinkedIn & Indeed, 2025). Senior platform architects can exceed that range. Canada and UK/Europe have strong bands as well; exact figures vary by market and experience.'
+      },
+      {
+        question: 'Does this course cover Databricks on AWS, Azure, and GCP?',
+        answer:
+          'Yes. Databricks core concepts — Delta Lake, Spark, LakeFlow, Unity Catalog — are consistent across clouds. Hands-on labs use Databricks on Azure (14-day free trial); skills transfer directly to AWS and GCP deployments, with cloud-specific notes where useful.'
+      },
+      {
+        question: 'What hands-on projects will I build?',
+        answer:
+          'You will complete 10+ labs and two capstones: (1) an end-to-end Medallion pipeline with Autoloader, Delta, LakeFlow, Jobs, and Unity Catalog; (2) a Databricks SQL analytics solution with parameterized queries, AI/BI dashboards, and alerts. Both are portfolio-ready.'
+      },
+      {
+        question: 'How long is the course and what are the batch timings?',
+        answer:
+          'Total training is 55+ hours, typically over 9–11 weeks. Batches run in EST, GMT, and IST with weekday and weekend options. Contact us for upcoming dates.'
+      },
+      {
+        question: 'Is placement assistance available after the course?',
+        answer:
+          'We provide career support including Databricks-focused resume and LinkedIn help, technical mock interviews (PySpark and Delta architecture), capstone portfolio review, and referrals through our hiring partner network. Placement outcomes depend on individual effort and market conditions.'
+      }
+    ],
+    duration: '55+ Hours',
+    mode: 'Online',
+    icon: 'databricks',
+    heroSubtitle: 'DCDEA · July 2025',
+    toolsAndTechnologies: [
+      { name: 'Databricks Platform', desc: 'Unified Lakehouse' },
+      { name: 'Delta Lake', desc: 'ACID storage layer' },
+      { name: 'Apache Spark', desc: 'Distributed engine' },
+      { name: 'PySpark', desc: 'Python Spark API' },
+      { name: 'Spark SQL', desc: 'SQL on Spark' },
+      { name: 'Structured Streaming', desc: 'Real-time pipelines' },
+      { name: 'Autoloader', desc: 'Incremental ingestion' },
+      { name: 'LakeFlow Pipelines', desc: 'Declarative ETL' },
+      { name: 'LakeFlow Jobs', desc: 'Workflow orchestration' },
+      { name: 'Unity Catalog', desc: 'Data governance' },
+      { name: 'Databricks SQL', desc: 'BI & dashboards' },
+      { name: 'Databricks Asset Bundles', desc: 'CI/CD for Databricks' }
+    ]
+  },
+
+  'aws-ai-practitioner-training': {
+    slug: 'aws-ai-practitioner-training',
+    title: 'AWS AI Practitioner Training',
+    category: 'AI',
+    heroDescription:
+      'Master AI, ML, and Generative AI on AWS — Amazon Bedrock, SageMaker, Rekognition, Comprehend, Lex, and more. Fully aligned with AWS Certified AI Practitioner (AIF-C01). Live instructor-led · 40+ hours · Beginner to Intermediate · 10 modules · 8+ labs · mock exam (65 questions). Exam fee $100; AWS often includes a free retake on foundational certs.',
+    heroBannerImage: '/course-banners/aws-solutions-architect.png',
+    callToAction: 'Request Callback',
+    highlights: [
+      'AIF-C01 exam prep — all 5 domains (20% / 24% / 28% / 14% / 14%)',
+      '40+ hours live training · 10 modules · 8+ hands-on AWS Console labs',
+      'Amazon Bedrock, SageMaker, Rekognition, Comprehend, Lex, Transcribe, Polly, Kendra, QuickSight, Amazon Q',
+      'Generative AI, Foundation Models, prompt engineering, Responsible AI, IAM & Guardrails',
+      '65-question mock exams with explanations · $100 exam · free retake offer where AWS applies',
+      'EST, GMT & IST batches · lifetime access · 1-on-1 mentoring & career support'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose AWS AI Practitioner Training from InsureTech Skills?',
+      overview:
+        'Amazon Web Services (AWS) powers AI workloads for over 1 million active customers globally — including most Fortune 500 companies across the USA, Canada, and Europe. The AWS Certified AI Practitioner (AIF-C01) is AWS\'s foundational AI certification, validating broad knowledge of AI, ML, and Generative AI and the AWS services behind them.\n\nThis training walks through all five AIF-C01 domains — from AI/ML fundamentals to Generative AI, Foundation Models, Responsible AI, and AWS AI security. You gain hands-on experience with Amazon Bedrock, SageMaker, Rekognition, Comprehend, Lex, Polly, Transcribe, and more. Whether you are a business professional, developer, data analyst, or IT leader, this course builds the AI foundation employers want. The AIF-C01 exam is $100 USD and is a strong entry point into the AWS AI career path.',
+      whyChoose:
+        'AWS-certified instructors deliver live sessions (not canned videos) with guided Console labs. You prepare with domain-aligned notes, scenario-style practice, and full mock exams — plus projects such as a Lex chatbot, Rekognition image workflows, and a Bedrock GenAI assistant.',
+      keyFeatures: [
+        'Full AIF-C01 syllabus — AI/ML fundamentals, GenAI, foundation models, responsible AI, security & governance',
+        'Hands-on labs on real AWS accounts (Free Tier; new accounts may receive promotional credits per AWS policies)',
+        '65-question mock examinations with answer explanations',
+        'Career support: resume, LinkedIn, mock interviews, and hiring referrals',
+        'Flexible global batches and lifetime access to recordings and materials'
+      ],
+      whatYouWillLearn: [
+        'Core AI, ML and Deep Learning concepts and terminology',
+        'AWS AI services ecosystem — Bedrock, SageMaker, Rekognition and more',
+        'Generative AI fundamentals — LLMs, Foundation Models and diffusion',
+        'Amazon Bedrock — deploying, invoking and customizing foundation models',
+        'Prompt Engineering — zero-shot, few-shot, chain-of-thought techniques',
+        'ML lifecycle — data preparation, model training, evaluation and deployment',
+        'Computer Vision with Amazon Rekognition — images, video and faces',
+        'NLP with Amazon Comprehend, Translate, Lex and Transcribe',
+        'Responsible AI — bias, fairness, explainability and transparency on AWS',
+        'AI security, compliance and governance using AWS IAM and guardrails',
+        'AWS AI cost optimization and choosing the right AI service for each use case',
+        'AIF-C01 full exam preparation with mock tests and practice questions'
+      ],
+      prerequisites: [
+        'No prior AWS or AI experience required — course starts from basics',
+        'Basic familiarity with cloud concepts is helpful',
+        'Up to 6 months of general IT or data exposure is recommended but not mandatory',
+        'System: modern PC/Mac, browser; AWS Free Tier account for labs; stable internet',
+        'AWS Cloud Practitioner (CLF-C02) knowledge is helpful but not required'
+      ],
+      whoCanJoin: [
+        'Business analysts, project managers, developers, data professionals, and IT leaders',
+        'Product owners and anyone who works with or wants to leverage AI/ML on AWS',
+        'Technical and non-technical professionals — inclusive of finance, HR, marketing, legal, healthcare backgrounds'
+      ],
+      distinctness:
+        'Foundational AIF-C01 focus (not a deep coding exam): all five exam domains with weighted coverage, Bedrock and GenAI depth, Responsible AI and governance, plus 8+ Console labs and a capstone architecture design — aligned to how AWS tests practical service selection and responsible use.'
+    },
+    modules: [
+      {
+        title: '1. Introduction to AI, ML & AWS Cloud',
+        topics: [
+          'What is Artificial Intelligence? — definitions, history and modern applications',
+          'AI vs Machine Learning vs Deep Learning vs Generative AI — clear distinctions',
+          'AWS Cloud fundamentals — Regions, Availability Zones, core services overview',
+          'AWS AI services portfolio overview — the full ecosystem at a glance',
+          'AWS Free Tier setup — creating your account and navigating the AWS Console'
+        ]
+      },
+      {
+        title: '2. Machine Learning Fundamentals',
+        topics: [
+          'ML concepts — supervised, unsupervised and reinforcement learning',
+          'ML lifecycle — business problem, data collection, preparation, training, evaluation, deployment',
+          'Common ML algorithms — linear regression, decision trees, random forests, neural networks',
+          'Overfitting, underfitting, bias-variance tradeoff and regularization',
+          'Model evaluation metrics — accuracy, precision, recall, F1 score, AUC-ROC',
+          'Feature engineering — selection, transformation and encoding techniques',
+          'Lab: Exploring datasets and running AutoML with Amazon SageMaker Canvas'
+        ]
+      },
+      {
+        title: '3. Amazon SageMaker — ML Build & Deploy',
+        topics: [
+          'SageMaker overview — unified ML platform for build, train and deploy',
+          'SageMaker Studio — integrated IDE for ML workflows',
+          'SageMaker Canvas — no-code ML for business users',
+          'SageMaker Autopilot — automated ML model creation',
+          'SageMaker Pipelines — MLOps and CI/CD for ML workflows',
+          'Model monitoring — detecting data drift and model degradation',
+          'Lab: Training and deploying a classification model with SageMaker'
+        ]
+      },
+      {
+        title: '4. Generative AI Fundamentals',
+        topics: [
+          'What is Generative AI? — LLMs, Foundation Models and diffusion models',
+          'Transformer architecture basics — attention mechanisms and tokenization',
+          'Large Language Models (LLMs) — GPT, Claude, Llama, Titan and Mistral',
+          'Text-to-image models — Stable Diffusion, DALL-E and image generation on AWS',
+          'Multimodal models — handling text, images, audio and video together',
+          'GenAI use cases — content creation, code generation, summarization, Q&A'
+        ]
+      },
+      {
+        title: '5. Amazon Bedrock — Foundation Models on AWS',
+        topics: [
+          'Amazon Bedrock overview — fully managed foundation model service',
+          'Available models — Amazon Titan, Claude (Anthropic), Llama (Meta), Mistral',
+          'Bedrock API — invoking models via AWS SDK and Console Playground',
+          'Prompt Engineering on Bedrock — system prompts, few-shot and chain-of-thought',
+          'Knowledge Bases for Amazon Bedrock — RAG with your own data',
+          'Bedrock Agents — building autonomous AI agents on AWS',
+          'Lab: Build a GenAI Q&A assistant using Amazon Bedrock and Knowledge Bases'
+        ]
+      },
+      {
+        title: '6. AWS AI Services — Vision, Language & Speech',
+        topics: [
+          'Amazon Rekognition — image and video analysis, face detection, text in images',
+          'Amazon Textract — extracting text and structured data from documents',
+          'Amazon Comprehend — sentiment analysis, entity recognition, key phrases',
+          'Amazon Comprehend Medical — clinical NLP for healthcare use cases',
+          'Amazon Translate — real-time and batch language translation',
+          'Amazon Transcribe — speech-to-text for audio and video files',
+          'Amazon Polly — text-to-speech with neural voices',
+          'Lab: Build an end-to-end document analysis pipeline with Rekognition and Textract'
+        ]
+      },
+      {
+        title: '7. Conversational AI — Amazon Lex & Amazon Q',
+        topics: [
+          'Amazon Lex — building chatbots with intents, slots and fulfillment',
+          'Lex integration with Lambda, Connect and Kendra',
+          'Amazon Kendra — intelligent enterprise search powered by ML',
+          'Amazon Q — generative AI assistant for business productivity',
+          'Lab: Build and deploy a customer service chatbot using Amazon Lex'
+        ]
+      },
+      {
+        title: '8. Responsible AI on AWS',
+        topics: [
+          'Responsible AI principles — fairness, transparency, accountability, privacy',
+          'AI bias — sources, types and detection methods',
+          'Model explainability — SageMaker Clarify for bias detection and explainability',
+          'Human-in-the-loop — Amazon A2I (Augmented AI) for human review workflows',
+          'AWS AI service cards — transparency documentation for AWS AI services'
+        ]
+      },
+      {
+        title: '9. AI Security, Compliance & Governance on AWS',
+        topics: [
+          'AWS shared responsibility model for AI workloads',
+          'Securing AI services — AWS IAM, resource policies and VPC endpoints',
+          'Amazon Bedrock Guardrails — content filtering, topic denial and PII redaction',
+          'AWS compliance frameworks relevant to AI — GDPR, HIPAA, SOC 2',
+          'AI cost governance — monitoring and optimizing AI service costs on AWS'
+        ]
+      },
+      {
+        title: '10. AIF-C01 Exam Prep & Capstone Project',
+        topics: [
+          'AIF-C01 exam structure — 65 questions, 90 minutes, passing score 700',
+          'Domain weightings review — key topics and common question patterns',
+          'Full mock exam with 65 scenario-based questions and detailed explanations',
+          'Choosing the right AWS AI service — decision-making frameworks for the exam',
+          'Capstone: Design an end-to-end AI solution architecture on AWS for a real business case'
+        ]
+      }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Personalized mentoring, exam strategy, and flexible pacing.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live instructor-led batches with AWS Console labs.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Team training for organizations adopting AWS AI services.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      { title: 'AIF-C01 Aligned', icon: '📜', description: 'All 5 exam domains with mock exams (65 questions) and explanations.' },
+      { title: '$100 Exam & Retake', icon: '💵', description: 'Affordable certification; AWS foundational free retake where offered.' },
+      { title: 'Live Instructor-Led', icon: '✓', description: 'AWS-certified experts — real-time sessions, not pre-recorded only.' },
+      { title: '8+ Hands-On Labs', icon: '🧪', description: 'Bedrock, SageMaker, Rekognition, Lex, Textract, and more on real AWS.' },
+      { title: 'Real-World Projects', icon: '🏗️', description: 'Chatbot (Lex), vision workflows (Rekognition), GenAI app (Bedrock).' },
+      { title: 'Responsible & Secure AI', icon: '🛡️', description: 'Bias, explainability, IAM, Guardrails, and compliance context.' },
+      { title: 'Global Batches', icon: '🌍', description: 'EST, GMT, and IST options for worldwide learners.' },
+      { title: 'Career Support', icon: '💼', description: 'Resume, LinkedIn, interviews, and referrals for AI/cloud roles.' }
+    ],
+    faqs: [
+      {
+        question: 'What is the AIF-C01 certification and who is it for?',
+        answer:
+          'AWS Certified AI Practitioner (AIF-C01) validates broad knowledge of AI, ML, and Generative AI and their AWS implementations. It suits technical and non-technical roles: analysts, developers, PMs, and cloud professionals. It is not a deep coding exam.'
+      },
+      {
+        question: 'Do I need prior AWS or AI experience?',
+        answer:
+          'No strict prerequisite. Basic cloud awareness helps. The course starts from fundamentals. AWS Cloud Practitioner (CLF-C02) gives a slight edge but is not required.'
+      },
+      {
+        question: 'How much does the AIF-C01 exam cost?',
+        answer:
+          'The exam is $100 USD. AWS often provides a free retake on foundational certifications including AIF-C01 (confirm current terms on the AWS Certification site). Training fee is separate from the exam fee.'
+      },
+      {
+        question: 'How is this different from AWS Cloud Practitioner (CLF-C02)?',
+        answer:
+          'CLF-C02 covers general AWS cloud fundamentals. AIF-C01 focuses on AI, ML, GenAI, Bedrock, SageMaker, Rekognition, Comprehend, Responsible AI, and Foundation Models — not covered at that depth in CLF-C02. You can take AIF-C01 without CLF-C02.'
+      },
+      {
+        question: 'What AWS hands-on experience will I gain?',
+        answer:
+          '8+ labs including a Lex chatbot, Rekognition image analysis, SageMaker classification, Bedrock + Knowledge Bases GenAI assistant, Textract document processing, and a capstone AI architecture design.'
+      },
+      {
+        question: 'What salaries can I expect after this certification?',
+        answer:
+          'Roles such as AI Project Manager, Solutions Architect, ML Engineer, BI Analyst, and AI Strategy Consultant vary by market. Indicative USA ranges are often cited around $90k–$130k+ for entry to mid-level (sources vary; experience matters). Senior roles can exceed that band.'
+      },
+      {
+        question: 'How long is the course and what are the batch timings?',
+        answer:
+          '40+ hours total, typically 6–8 weeks. Batches in EST, GMT, and IST with weekday and weekend options. Contact us for the current schedule.'
+      },
+      {
+        question: 'Is placement assistance available after the course?',
+        answer:
+          'We provide career support including AWS AI-focused resume and LinkedIn help, mock interviews, and referrals to hiring partners. Individual outcomes depend on experience, location, and effort.'
+      }
+    ],
+    duration: '40+ Hours',
+    mode: 'Online',
+    icon: 'aws',
+    heroSubtitle: 'AIF-C01',
+    toolsAndTechnologies: [
+      { name: 'Amazon Bedrock', desc: 'Foundation model hub' },
+      { name: 'Amazon SageMaker', desc: 'ML build & deploy' },
+      { name: 'Amazon Rekognition', desc: 'Computer vision' },
+      { name: 'Amazon Comprehend', desc: 'NLP & text analysis' },
+      { name: 'Amazon Lex', desc: 'Conversational AI' },
+      { name: 'Amazon Transcribe', desc: 'Speech to text' },
+      { name: 'Amazon Polly', desc: 'Text to speech' },
+      { name: 'Amazon Translate', desc: 'Language translation' },
+      { name: 'Amazon Kendra', desc: 'Intelligent search' },
+      { name: 'Amazon QuickSight', desc: 'BI & ML insights' },
+      { name: 'AWS IAM & Guardrails', desc: 'Security & governance' },
+      { name: 'Amazon Q', desc: 'GenAI assistant' }
+    ]
+  },
+
+  'spark-hadoop-developer-training': {
+    slug: 'spark-hadoop-developer-training',
+    title: 'Spark & Hadoop Developer Training',
+    category: 'Big Data',
+    heroDescription:
+      'Big Data engineering with Apache Spark and Hadoop — distributed pipelines, streaming with Kafka, Hive, Pig, HBase, ETL at scale, and cloud deployment (AWS EMR, Azure HDInsight, GCP Dataproc, Databricks). Aligned with Cloudera CCA 175 Spark and Hadoop Developer. Live instructor-led · 55+ hours · 10 modules · 6+ projects · cloud lab access.',
+    heroBannerImage: '/course-banners/multi-cloud-devops.png',
+    callToAction: 'Request Callback',
+    highlights: [
+      'CCA 175 Spark and Hadoop Developer exam-aligned preparation',
+      '55+ hours · 10 modules · Hadoop Cloud Lab (browser access, no heavy local install)',
+      'HDFS, YARN, MapReduce, Hive, Pig, HBase, Sqoop, Flume, Oozie, Kafka, Spark Core & SQL, MLlib',
+      'PySpark & Scala basics · Structured Streaming · EMR, HDInsight, Dataproc, Databricks',
+      '6+ projects — NYSE/Hive, Twitter sentiment, e-commerce streaming, fraud detection, capstone',
+      'Live training · EST, GMT, IST · lifetime access · 1-on-1 mentoring & career support'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Spark & Hadoop Developer Training from InsureTech Skills?',
+      overview:
+        'Big Data is central to how enterprises operate today. This programme teaches you to build distributed data processing systems from the ground up using Apache Spark and the Hadoop ecosystem.\n\nAt InsureTech Skills you work on realistic projects spanning finance, healthcare, and e-commerce — from HDFS and MapReduce through Spark Streaming and Kafka. By completion you will be prepared for the Cloudera Certified Associate (CCA) Spark and Hadoop Developer exam (CCA175) and for enterprise data engineering roles globally.',
+      whyChoose:
+        'Live expert-led sessions, a hosted Hadoop cloud lab for hands-on work, performance-style practice aligned to CCA 175, and portfolio projects you can discuss in interviews — plus structured exam tips and mock tasks.',
+      keyFeatures: [
+        'Full-stack Hadoop and Spark curriculum with hosted lab environment',
+        'Real-time streaming, Kafka integration, and MLlib at scale',
+        'Cloud deployment patterns on major managed Spark/Hadoop services',
+        'CCA 175-focused review, mocks, and hands-on performance tasks',
+        'Career support: resume, interviews, and hiring partner referrals'
+      ],
+      whatYouWillLearn: [
+        'Hadoop architecture — HDFS, YARN and MapReduce',
+        'Apache Spark core — RDDs, DataFrames and Datasets',
+        'Spark SQL for structured data querying at scale',
+        'Real-time streaming with Spark Streaming and Kafka',
+        'Hive, Pig, HBase and Sqoop for data processing',
+        'PySpark — Python API for Apache Spark',
+        'ETL pipeline design and big data workflow automation',
+        'Spark MLlib for machine learning at scale',
+        'Cloud deployment — AWS EMR, Azure HDInsight, GCP Dataproc',
+        'CCA 175 Spark and Hadoop Developer exam preparation'
+      ],
+      prerequisites: [
+        'Basic Python or Java/Scala; SQL and Linux command line recommended',
+        'No prior Spark or Hadoop required — starts from fundamentals',
+        'Windows 10+ or macOS 11+; 8GB RAM minimum (16GB recommended); ~50GB free disk if using local VM (optional — cloud lab provided)',
+        'Stable broadband for live sessions and lab access'
+      ],
+      whoCanJoin: [
+        'Software developers, data analysts, database admins, and IT professionals',
+        'Anyone moving into Big Data or data engineering at global enterprises',
+        'Graduates and freshers with strong programming fundamentals'
+      ],
+      distinctness:
+        'CCA 175–aligned path combining classic Hadoop (HDFS, MapReduce, Hive, Pig, HBase) with modern Spark (SQL, streaming, MLlib) and production-style cloud deployment — with a dedicated cloud lab so you spend time learning, not fighting cluster installs.'
+    },
+    modules: [
+      {
+        title: '1. Introduction to Big Data & Hadoop Ecosystem',
+        topics: [
+          'What is Big Data? — 5 V\'s: Volume, Velocity, Variety, Veracity, Value',
+          'Introduction to Hadoop — history, use cases and ecosystem overview',
+          'Hadoop vs traditional RDBMS — when to use what',
+          'Setting up Hadoop environment — single node and multi-node cluster concepts',
+          'Introduction to Linux for Big Data — essential commands'
+        ]
+      },
+      {
+        title: '2. HDFS — Hadoop Distributed File System',
+        topics: [
+          'HDFS architecture — NameNode, DataNode, Secondary NameNode',
+          'HDFS read and write pipeline — block replication and fault tolerance',
+          'HDFS commands — file operations, permissions and administration',
+          'HDFS federation and high availability setup',
+          'Data storage formats — Avro, Parquet, ORC, JSON on HDFS'
+        ]
+      },
+      {
+        title: '3. MapReduce & YARN',
+        topics: [
+          'MapReduce programming model — Map, Shuffle and Reduce phases',
+          'Writing MapReduce programs in Java and Python',
+          'YARN architecture — ResourceManager, NodeManager, ApplicationMaster',
+          'Job scheduling and resource management in YARN',
+          'MapReduce optimization — combiners, partitioners and counters'
+        ]
+      },
+      {
+        title: '4. Hive, Pig & HBase',
+        topics: [
+          'Apache Hive — architecture, HiveQL, tables and partitions',
+          'Hive joins, views, UDFs and optimization techniques',
+          'Apache Pig — Pig Latin scripting and data flow model',
+          'Pig operators — LOAD, FILTER, GROUP, JOIN, STORE',
+          'HBase — NoSQL architecture, column families and row keys',
+          'HBase CRUD operations and integration with Hadoop',
+          'Project: NYSE stock data analysis using Hive'
+        ]
+      },
+      {
+        title: '5. Data Ingestion — Sqoop & Flume',
+        topics: [
+          'Apache Sqoop — importing/exporting data between RDBMS and HDFS',
+          'Sqoop import commands, incremental imports and filters',
+          'Apache Flume — architecture for streaming log data into HDFS',
+          'Flume agents, sources, channels and sinks configuration'
+        ]
+      },
+      {
+        title: '6. Apache Spark Core',
+        topics: [
+          'Spark architecture — Driver, Executors and Cluster Manager',
+          'RDDs (Resilient Distributed Datasets) — creation, transformations and actions',
+          'Lazy evaluation, DAG execution and lineage graph',
+          'Spark deployment modes — Local, Standalone, YARN, Kubernetes',
+          'PySpark — Python API deep dive with hands-on labs',
+          'Spark performance tuning — caching, partitioning and broadcast variables',
+          'Spark with Scala — basics for enterprise development'
+        ]
+      },
+      {
+        title: '7. Spark SQL & DataFrames',
+        topics: [
+          'Spark DataFrames vs RDDs — when to use which',
+          'Creating DataFrames — from CSV, JSON, Parquet, Hive tables',
+          'Spark SQL — querying structured data at scale',
+          'DataFrame operations — filter, select, groupBy, join, agg',
+          'User Defined Functions (UDFs) in PySpark and Scala',
+          'Catalyst optimizer and Tungsten execution engine internals'
+        ]
+      },
+      {
+        title: '8. Spark Streaming & Apache Kafka',
+        topics: [
+          'Introduction to real-time stream processing concepts',
+          'Apache Kafka — producers, consumers, topics and brokers',
+          'Spark Structured Streaming — reading from Kafka streams',
+          'Windowed operations, watermarks and late data handling',
+          'Micro-batch vs continuous streaming modes',
+          'Project: Real-time e-commerce analytics dashboard'
+        ]
+      },
+      {
+        title: '9. Spark MLlib & GraphX',
+        topics: [
+          'Introduction to Spark MLlib — ML pipelines at scale',
+          'Classification and regression with Spark ML',
+          'Clustering and recommendation systems using MLlib',
+          'Feature engineering and model evaluation in Spark',
+          'GraphX for large-scale graph data processing'
+        ]
+      },
+      {
+        title: '10. Cloud Deployment, Oozie & Capstone Project',
+        topics: [
+          'Apache Oozie — workflow scheduler for Hadoop jobs',
+          'Deploying Spark on AWS EMR — cluster setup and job submission',
+          'Azure HDInsight and GCP Dataproc — managed Hadoop/Spark clusters',
+          'Databricks platform — unified Spark workspace on cloud',
+          'CCA 175 exam tips, mock tests and practice tasks',
+          'Capstone: End-to-end Big Data pipeline (fraud detection / log analytics)'
+        ]
+      }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Personal mentor for Spark, Hadoop, and CCA 175 prep.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live batches with cloud lab and real projects.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Enterprise Big Data upskilling for engineering teams.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      { title: 'CCA 175 Prep', icon: '📜', description: 'Aligned to Cloudera Spark and Hadoop Developer — mocks and hands-on tasks.' },
+      { title: 'Live Instructor-Led', icon: '✓', description: 'Expert-led sessions with live doubt clearing.' },
+      { title: 'Hadoop Cloud Lab', icon: '☁️', description: 'Practice on a live cluster through your browser — minimal local setup.' },
+      { title: '6+ Industry Projects', icon: '🏗️', description: 'NYSE/Hive, sentiment, streaming, fraud, and capstone pipeline.' },
+      { title: 'Spark Performance', icon: '⚡', description: 'In-memory processing — why Spark dominates batch and iterative workloads.' },
+      { title: 'Global Batches', icon: '🌍', description: 'EST, GMT, and IST scheduling for worldwide learners.' },
+      { title: 'Lifetime Access', icon: '♾️', description: 'Recordings, code, and study materials after enrollment.' },
+      { title: 'Career Support', icon: '💼', description: 'Resume, mock interviews, and hiring partner referrals.' }
+    ],
+    faqs: [
+      {
+        question: 'Do I need prior Big Data or Hadoop experience to join?',
+        answer:
+          'No prior Spark or Hadoop experience is required. Python or Java/Scala basics and familiarity with SQL and Linux help. The course progresses from fundamentals to advanced topics.'
+      },
+      {
+        question: 'Does this course prepare me for the CCA 175 certification?',
+        answer:
+          'Yes. Content aligns with the Cloudera Certified Associate Spark and Hadoop Developer (CCA175) exam. We include mock tests and performance-based practice similar to the exam format. Verify current exam availability and format on Cloudera\'s official certification pages.'
+      },
+      {
+        question: 'What is the average salary for a Spark/Hadoop developer in the USA?',
+        answer:
+          'Compensation varies widely by seniority, company, and location. Big data and Spark roles are typically well-paid; check recent job postings and surveys for current ranges in your market.'
+      },
+      {
+        question: 'Will I get a Hadoop cluster to practice on?',
+        answer:
+          'Yes. We provide access to a hosted Hadoop cloud lab during the course so you can practice without building a complex local cluster. Requirements may vary by cohort — confirm details at enrollment.'
+      },
+      {
+        question: 'How long is the course and what are the batch timings?',
+        answer:
+          '55+ hours total, typically 8–10 weeks. Batches in EST, GMT, and IST with weekend options. Contact us for the current schedule.'
+      },
+      {
+        question: 'What real-world projects will I work on?',
+        answer:
+          '6+ projects including NYSE analysis with Hive, Twitter sentiment with Spark Streaming and Kafka, real-time e-commerce analytics, fraud detection with MLlib, and an end-to-end capstone (e.g. fraud or log analytics).'
+      },
+      {
+        question: 'Is placement assistance available after the course?',
+        answer:
+          'We offer career support including Big Data–focused resume help, LinkedIn optimization, technical mock interviews (including Spark coding), and referrals to partners. Outcomes depend on your background and the job market.'
+      }
+    ],
+    duration: '55+ Hours',
+    mode: 'Online',
+    icon: 'devops',
+    heroSubtitle: 'CCA 175',
+    toolsAndTechnologies: [
+      { name: 'Apache Spark', desc: 'Core engine' },
+      { name: 'Apache Hadoop', desc: 'Distributed storage' },
+      { name: 'PySpark', desc: 'Python Spark API' },
+      { name: 'Scala', desc: 'Spark native lang' },
+      { name: 'Apache Hive', desc: 'SQL on Hadoop' },
+      { name: 'Apache Pig', desc: 'Data flow scripts' },
+      { name: 'Apache Kafka', desc: 'Real-time streaming' },
+      { name: 'HBase', desc: 'NoSQL on Hadoop' },
+      { name: 'Sqoop and Flume', desc: 'Data ingestion' },
+      { name: 'Oozie', desc: 'Workflow scheduler' },
+      { name: 'AWS EMR / GCP', desc: 'Cloud clusters' },
+      { name: 'Databricks', desc: 'Spark platform' }
+    ]
+  },
+  'digital-marketing-training-with-ai-integrated': {
+    slug: 'digital-marketing-training-with-ai-integrated',
+    title: 'Digital Marketing Training with AI Integrated',
+    category: 'Digital Marketing',
+    heroDescription:
+      'Master modern On-Page SEO with AI-integrated digital marketing strategies. Learn how Google ranks pages, map search intent, write high-impact SEO content, run real website audits, and build a portfolio-ready project with measurable results.',
+    heroBannerImage: '/course-banners/digital-marketing-ai.png',
+    callToAction: 'Build SEO skills that rank and convert',
+    highlights: [
+      'Understand how Google ranks pages using relevance, quality, and UX',
+      'Write SEO content optimized for both AI overviews and search engines',
+      'Perform practical on-page SEO audits on real websites',
+      'Apply featured snippet, CTR, and topical authority strategies',
+      'Execute a 4-week workflow from keyword research to performance tracking',
+      'Build a portfolio-ready SEO project'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Digital Marketing Training with AI Integrated from InsureTech Skills?',
+      overview:
+        'This practical digital marketing module is focused on On-Page SEO (2026) and designed for learners who want real-world ranking skills. You will learn search intent mapping, SEO content planning, keyword placement, internal linking, UX optimization, snippet targeting, and AI-first optimization methods that align with modern search behavior.',
+      whyChoose:
+        'At InsureTech Skills, we focus on implementation over theory. You will work with real examples, structured workflows, and audit checklists to confidently optimize web pages, improve visibility, and drive sustainable organic growth.',
+      keyFeatures: [
+        'AI + Search optimized content strategy',
+        'Hands-on audit framework for real websites',
+        'Step-by-step on-page SEO workflow',
+        'Featured snippet and CTR optimization techniques',
+        'Portfolio-ready implementation project',
+        'Trainer support and practical guidance'
+      ],
+      whatYouWillLearn: [
+        'How Google ranks pages using relevance, quality, and user experience',
+        'How to map search intent: informational, commercial, and transactional',
+        'How to create SEO content blueprints with title, H1, H2/H3, and FAQs',
+        'How to use the Hook -> Value -> Proof -> CTA writing framework',
+        'How to place keywords naturally across title, H1, first 100 words, body, and ALT text',
+        'How to improve internal linking with descriptive anchors',
+        'How to optimize UX: speed, mobile friendliness, and readability',
+        'How to structure content for featured snippets (40-60 word answers + bullets)',
+        'How to apply advanced strategies: AI optimization (SGE), topical authority, content depth, and CTR improvements',
+        'How to run a complete on-page SEO audit and track engagement metrics'
+      ],
+      prerequisites: [
+        'Basic understanding of websites and content publishing',
+        'No prior SEO experience required',
+        'Willingness to practice with real webpages and tools'
+      ],
+      whoCanJoin: [
+        'Beginners in digital marketing',
+        'Content writers and bloggers',
+        'Business owners and founders',
+        'Freelancers and consultants',
+        'Students building career-ready SEO skills',
+        'Marketing professionals upskilling for AI-era search'
+      ],
+      distinctness:
+        'This module combines practical On-Page SEO with AI-aware optimization methods. Instead of shortcuts, learners build ranking capability through intent-first strategy, quality content architecture, and user-centric experience improvements.'
+    },
+    modules: [
+      {
+        title: '1. How Google Ranks a Page',
+        topics: [
+          'Relevance: matching content with search intent',
+          'Quality: depth, trust, and competitive value',
+          'User Experience (UX): engagement, readability, and usefulness',
+          'Golden rule: better problem-solving content ranks better'
+        ]
+      },
+      {
+        title: '2. Modern On-Page SEO Framework',
+        topics: [
+          'Search intent mapping: informational, commercial, transactional',
+          'Content blueprint: SEO title, one H1, optimized H2/H3, and FAQs',
+          'SEO writing formula: Hook, Value, Proof, CTA',
+          'Keyword placement strategy: title, H1, first 100 words, body, and image ALT text',
+          'Internal linking using relevant pages and descriptive anchor text',
+          'UX optimization: load speed, mobile-friendliness, clean layout, readability',
+          'Featured snippet optimization with direct answers and bullet structure'
+        ]
+      },
+      {
+        title: '3. Advanced On-Page SEO Strategies',
+        topics: [
+          'AI optimization (SGE): clear direct answers, FAQs, and structured headings',
+          'Topical authority: one core topic with interlinked subtopics',
+          'Content depth: examples, use cases, and step-by-step clarity',
+          'CTR optimization: use numbers, strong words, and current year in titles'
+        ]
+      },
+      {
+        title: '4. Practical Workflow (4 Weeks)',
+        topics: [
+          'Week 1: keyword research and competitor analysis',
+          'Week 2: content writing and structural drafting',
+          'Week 3: on-page optimization implementation',
+          'Week 4: publish, monitor, and track ranking progress'
+        ]
+      },
+      {
+        title: '5. On-Page SEO Audit Framework',
+        topics: [
+          'Content check: intent match and competitive value',
+          'Technical check: loading speed and mobile responsiveness',
+          'SEO elements: title, meta description, and heading structure',
+          'Engagement metrics: bounce rate and time on page'
+        ]
+      },
+      {
+        title: '6. Essential Tools and Common Mistakes',
+        topics: [
+          'Tools: Google Search Console, Google Analytics, SEMrush, Google PageSpeed Insights',
+          'Common mistakes: ignoring intent, copying competitors, keyword stuffing, poor UX, no internal linking',
+          'Professional insights: SEO takes 2-8 weeks, consistency matters, quality over quantity, update old content regularly',
+          'Core formula: Intent + Content Quality + User Experience = Ranking'
+        ]
+      }
+    ],
+    learningModes: [
+      {
+        title: '1-TO-1 TRAINING',
+        icon: '👥',
+        description: 'Personalized SEO mentorship with one-on-one implementation support.',
+        buttonText: 'GET STARTED'
+      },
+      {
+        title: 'ONLINE TRAINING',
+        icon: '💻',
+        description: 'Live instructor-led sessions with practical assignments and audits.',
+        buttonText: 'ENROLL NOW'
+      },
+      {
+        title: 'CORPORATE TRAINING',
+        icon: '🏢',
+        description: 'Team upskilling for modern SEO, content quality, and organic growth.',
+        buttonText: 'CONTACT US'
+      }
+    ],
+    benefits: [
+      {
+        title: 'Practical SEO Execution',
+        icon: '✓',
+        description: 'Learn by doing real optimizations, not just theory.'
+      },
+      {
+        title: 'AI-Ready Content Strategy',
+        icon: '🤖',
+        description: 'Build pages optimized for both AI-generated summaries and classic search results.'
+      },
+      {
+        title: 'Audit Confidence',
+        icon: '🔍',
+        description: 'Use a structured checklist to evaluate and improve any webpage.'
+      },
+      {
+        title: 'Portfolio Project',
+        icon: '📁',
+        description: 'Complete an SEO project you can showcase to employers or clients.'
+      }
+    ],
+    faqs: [
+      {
+        question: 'How long does it take to see SEO results?',
+        answer: 'Most learners see early SEO movement within 2-8 weeks, depending on competition, content quality, and consistency.'
+      },
+      {
+        question: 'Do I need technical coding skills for this module?',
+        answer: 'No advanced coding is required. You will focus on practical on-page implementation, content structure, and optimization workflows.'
+      },
+      {
+        question: 'Will this module help with AI-era search trends?',
+        answer: 'Yes. The module includes AI optimization practices such as clear answers, structured headings, and FAQ-based formatting for modern search experiences.'
+      },
+      {
+        question: 'Is this useful for freelancers and business owners?',
+        answer: 'Absolutely. The framework helps freelancers, marketers, and business owners improve organic visibility and attract qualified traffic.'
+      }
+    ],
+    duration: '4 Weeks',
+    mode: 'Online',
+    icon: 'seo',
+    heroSubtitle: 'On-Page SEO (2026)',
+    toolsAndTechnologies: [
+      { name: 'Google Search Console', desc: 'Performance and index insights' },
+      { name: 'Google Analytics', desc: 'Traffic and behavior metrics' },
+      { name: 'SEMrush', desc: 'Keyword and competitor research' },
+      { name: 'Google PageSpeed Insights', desc: 'Speed and UX diagnostics' },
+      { name: 'Google Search', desc: 'SERP and intent analysis' },
+      { name: 'AI Assistants', desc: 'Content ideation and structure support' }
+    ]
+  },
+  'data-engineer-professional-training': {
+    slug: 'data-engineer-professional-training',
+    title: 'Data Engineer Professional Training',
+    category: 'Big Data',
+    heroDescription:
+      'Master the full data engineering lifecycle — from raw ingestion to scalable pipelines, cloud warehouses, and real-time analytics. This 6-month, industry-aligned program includes 200+ hours of live training, 10+ hands-on projects across three cloud platforms, placement support, and live mentorship. Build end-to-end pipelines with SQL, Python, Spark, Kafka, Airflow, dbt, and modern lakehouse patterns on AWS, Azure, and GCP.',
+    heroBannerImage: '/course-banners/multi-cloud-devops.png',
+    callToAction: 'Become a job-ready Data Engineer',
+    highlights: [
+      '6 months · 200+ hrs live training · 10+ real projects',
+      'Batch & real-time streaming — Kafka, Spark, Delta Lake',
+      'Cloud data engineering on AWS, Azure & GCP',
+      'Apache Airflow orchestration & dbt transformations',
+      'Placement support, mock interviews & portfolio on GitHub',
+      'Free Python & SQL pre-bootcamp for beginners (enrolled students)'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Data Engineer Professional Training from InsureTech Skills?',
+      overview:
+        'The Data Engineer Professional Training is a comprehensive programme designed to make you job-ready: you will design, build, and optimise robust data pipelines, work with distributed systems and cloud platforms, and use the modern data stack that powers real-world analytics and AI applications — with guided cloud sandboxes and a production-style capstone.',
+      whyChoose:
+        'At InsureTech Skills you get live expert-led sessions (not recorded-only), hands-on cloud labs on AWS and Azure at no extra cost, 4+ portfolio projects on GitHub, resume and LinkedIn support, certification guidance (AWS, Azure, Databricks, dbt), lifetime LMS access, and a dedicated placement team with cohort community support.',
+      keyFeatures: [
+        'Project-based learning with a production-grade capstone',
+        'Live mentorship from Data Engineers with 5–15+ years experience',
+        'Cloud lab access — practice on real environments',
+        'InsureTech Skills certificate + external certification prep',
+        'Placement assistance and peer community (Slack/WhatsApp)',
+        'Structured curriculum across 10 modules over 6 months'
+      ],
+      whatYouWillLearn: [
+        'Python for data engineering: APIs, Pandas, Parquet/Avro, testing and logging',
+        'Advanced SQL, PostgreSQL, NoSQL (MongoDB, Cassandra), OLTP vs OLAP, dimensional modelling',
+        'Data warehousing: Kimball/Inmon, Snowflake, Redshift, BigQuery, dbt on Snowflake',
+        'ETL/ELT pipelines: Airflow DAGs, Prefect/Dagster, Fivetran/Airbyte/Stitch',
+        'Big data: Hadoop ecosystem, PySpark, Structured Streaming, Delta Lake lakehouse patterns',
+        'Real-time streaming: Kafka, Kinesis, Event Hubs, lambda/kappa architectures',
+        'Cloud data engineering: AWS (S3, Glue, Lambda, Redshift, EMR), Azure (ADF, Databricks, Synapse), GCP (BigQuery, Dataflow, Composer)',
+        'Data quality & governance: Great Expectations, Glue Catalog, lineage, GDPR-aware practices',
+        'DevOps for data: Git, Docker, Kubernetes basics, CI/CD for dbt and Airflow',
+        'Capstone plus career prep: system design, mocks, and certification pathways'
+      ],
+      prerequisites: [
+        'Graduate in any stream (B.Tech / BCA / BSc / B.Com / BA)',
+        'Basic computer literacy; no prior coding required for the Beginner track',
+        'Advanced track: familiarity with Python or SQL is preferred',
+        'Optional: databases or Excel/BI — InsureTech offers a free Python & SQL bootcamp for enrolled students'
+      ],
+      whoCanJoin: [
+        'Freshers and recent graduates entering data engineering',
+        'Software / IT professionals specialising in data infrastructure',
+        'BI and analysts moving into engineering roles',
+        'Cloud enthusiasts targeting AWS, Azure, or GCP data services'
+      ],
+      distinctness:
+        'This programme emphasises end-to-end pipeline ownership — ingestion through orchestration, transformation with dbt and Spark, streaming with Kafka, cloud-native deployment, data quality, and DevOps practices — so you graduate with a portfolio and interview-ready skills, not just theory.'
+    },
+    modules: [
+      {
+        title: '1. Python for Data Engineering',
+        topics: [
+          'Python recap: data types, OOP, file I/O',
+          'APIs and web scraping (requests, BeautifulSoup)',
+          'Pandas, NumPy; JSON, CSV, Parquet, Avro, ORC',
+          'Error handling, logging, unit testing',
+          'Project: data ingestion script from a public API'
+        ]
+      },
+      {
+        title: '2. SQL & Databases for Data Engineers',
+        topics: [
+          'Advanced SQL: window functions, CTEs, indexes, optimisation',
+          'PostgreSQL deep dive; MongoDB and Cassandra — when and why',
+          'OLTP vs OLAP; normalisation and schema design',
+          'Project: star-schema warehouse from an OLTP source'
+        ]
+      },
+      {
+        title: '3. Data Warehousing & Modelling',
+        topics: [
+          'Kimball vs Inmon; facts, dimensions, SCDs',
+          'Snowflake: architecture, virtual warehouses, time travel',
+          'Redshift and BigQuery overview',
+          'dbt: models, tests, sources, documentation',
+          'Project: dbt project on Snowflake'
+        ]
+      },
+      {
+        title: '4. Data Pipelines & ETL/ELT',
+        topics: [
+          'ETL vs ELT; idempotency, fault tolerance, backfilling',
+          'Apache Airflow: DAGs, operators, sensors, XComs',
+          'Prefect and Dagster overview',
+          'Fivetran, Airbyte, Stitch',
+          'Project: multi-step Airflow DAG end-to-end'
+        ]
+      },
+      {
+        title: '5. Big Data: Spark & Hadoop',
+        topics: [
+          'Hadoop: HDFS, YARN, MapReduce (conceptual)',
+          'Spark: RDDs, DataFrames, PySpark transformations and actions',
+          'Structured Streaming; Delta Lake: ACID, schema evolution, time travel',
+          'Project: large dataset with PySpark on Databricks'
+        ]
+      },
+      {
+        title: '6. Real-Time Data Streaming',
+        topics: [
+          'Event-driven architecture; Apache Kafka topics, partitions, producers, consumers',
+          'Kafka Streams and ksqlDB',
+          'AWS Kinesis / Azure Event Hubs',
+          'Stream-batch lambda and kappa architectures',
+          'Project: real-time fraud detection with Kafka and Spark'
+        ]
+      },
+      {
+        title: '7. Cloud Data Engineering',
+        topics: [
+          'AWS: S3, Glue, Lambda, Redshift, EMR, Athena, Step Functions',
+          'Azure: Data Factory, Databricks, Synapse, ADLS Gen2',
+          'GCP: Cloud Storage, BigQuery, Dataflow, Cloud Composer',
+          'Terraform basics for data infrastructure; cost optimisation'
+        ]
+      },
+      {
+        title: '8. Data Quality, Governance & Observability',
+        topics: [
+          'Data quality dimensions; Great Expectations',
+          'Cataloguing: Apache Atlas, AWS Glue Catalog',
+          'Lineage: OpenLineage / Marquez',
+          'Observability concepts; GDPR and privacy for engineers'
+        ]
+      },
+      {
+        title: '9. DevOps for Data Engineers',
+        topics: [
+          'Git branching; Docker for data apps and pipelines',
+          'Kubernetes basics for data workloads',
+          'CI/CD: GitHub Actions for dbt and Airflow',
+          'Monitoring: Grafana and Prometheus basics',
+          'Project: automate dbt deployment via GitHub Actions'
+        ]
+      },
+      {
+        title: '10. Capstone Project & Career Readiness',
+        topics: [
+          'End-to-end capstone: production-style data platform',
+          'Resume, GitHub, LinkedIn; mock interviews (SQL, Python, system design)',
+          'Certification prep: AWS, Azure, dbt, Databricks',
+          'Placement drive and referral connections'
+        ]
+      }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Custom schedule with dedicated mentorship for pipeline and cloud labs.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live online batches with recordings in LMS within 24 hours.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Upskill teams on modern data stack and cloud data platforms.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      { title: 'Live Expert-Led Sessions', icon: '✓', description: 'Learn from practising Data Engineers, not recordings only.' },
+      { title: 'Cloud Lab Access', icon: '☁️', description: 'Hands-on AWS and Azure sandboxes for real pipelines.' },
+      { title: '10+ Real Projects', icon: '🏗️', description: 'Portfolio-ready work including capstone and GitHub profile.' },
+      { title: 'Placement Support', icon: '💼', description: 'Resume, mocks, referrals, and job portal access.' },
+      { title: 'Lifetime LMS', icon: '♾️', description: 'Recordings and updated materials after completion.' },
+      { title: 'Certification Path', icon: '📜', description: 'InsureTech certificate plus guidance for industry certs.' }
+    ],
+    faqs: [
+      {
+        question: 'Do I need a coding background to enrol?',
+        answer:
+          'No prior coding is required for the Beginner track. A free Python & SQL pre-bootcamp is included for absolute beginners. Basic Python or SQL helps for the Advanced track.'
+      },
+      {
+        question: 'Is the program online or offline?',
+        answer:
+          'Delivered live online via Zoom or Google Meet. Sessions are recorded to your LMS within 24 hours. Weekend batches are available.'
+      },
+      {
+        question: 'What is the duration and weekly commitment?',
+        answer:
+          'The program runs six months. Plan for roughly 8–10 hours per week including live sessions, assignments, and projects. Weekday and weekend batch options exist.'
+      },
+      {
+        question: 'Will I get placement support?',
+        answer:
+          'Yes. You receive resume preparation, LinkedIn optimisation, mock interviews, job portal access, and referral support. Placement depends on individual performance and market conditions.'
+      },
+      {
+        question: 'What certifications can I pursue?',
+        answer:
+          'You receive an InsureTech Skills Data Engineer Professional Certificate. The programme also prepares you for paths such as AWS Certified Data Engineer, Azure Data Engineer Associate, Databricks Certified Data Engineer, and dbt Analytics Engineering Certification.'
+      },
+      {
+        question: 'Do I get access to cloud platforms?',
+        answer:
+          'Yes. Enrolled learners get guided sandbox access on AWS and Azure for hands-on exercises on real cloud setups.'
+      }
+    ],
+    duration: '6 Months (200+ Hours)',
+    mode: 'Online',
+    icon: 'devops',
+    heroSubtitle: 'Data Engineering',
+    toolsAndTechnologies: [
+      { name: 'Python & SQL', desc: 'Core engineering languages' },
+      { name: 'Apache Spark & Hadoop', desc: 'Distributed processing' },
+      { name: 'Apache Kafka', desc: 'Event streaming' },
+      { name: 'Apache Airflow', desc: 'Workflow orchestration' },
+      { name: 'dbt', desc: 'Analytics engineering' },
+      { name: 'Snowflake / Redshift / BigQuery', desc: 'Cloud warehouses' },
+      { name: 'Delta Lake', desc: 'Lakehouse on data lakes' },
+      { name: 'AWS & Azure & GCP', desc: 'Cloud data services' },
+      { name: 'Docker & Kubernetes', desc: 'Containerised workloads' },
+      { name: 'Great Expectations', desc: 'Data quality tests' }
+    ]
+  },
+  'python-data-scientist-training': {
+    slug: 'python-data-scientist-training',
+    title: 'Python Data Scientist Training',
+    category: 'Data Science',
+    heroDescription:
+      'From Python basics to machine learning, deep learning, and AI — become a job-ready Data Scientist with 12+ real projects. This 6-month programme includes 200+ hours of live training, deployment skills (Flask, FastAPI, Docker, MLflow), NLP, computer vision, time series, MLOps, and placement support with live mentorship.',
+    heroBannerImage: '/course-banners/python-training.png',
+    callToAction: 'Become a job-ready Python Data Scientist',
+    highlights: [
+      '6 months · 200+ hrs · 12+ projects incl. capstone',
+      'ML, DL, NLP, CV, time series, and MLOps',
+      'GenAI tools: ChatGPT, Copilot, Hugging Face Transformers',
+      'Deploy models as REST APIs on AWS, Azure, or GCP',
+      'Free Python & Maths foundations bootcamp for enrolled students',
+      'Kaggle participation, GitHub portfolio, and interview prep'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Python Data Scientist Training from InsureTech Skills?',
+      overview:
+        'The Python Data Scientist Professional Training is a structured six-month journey through the full data science lifecycle: data wrangling, exploratory analysis, supervised and unsupervised learning, deep learning, NLP, computer vision, time series, deployment, and storytelling — with a capstone that mirrors a real client engagement.',
+      whyChoose:
+        'You learn from Data Scientists and ML engineers with years of industry experience, use notebooks and cloud sandboxes (including Colab for GPU work), build 12+ portfolio projects, participate in Kaggle-style work, and receive placement assistance plus certification guidance for Google, IBM, AWS, and Azure role-based certs.',
+      keyFeatures: [
+        'Live classes with GenAI-integrated workflow training',
+        '12+ projects and end-to-end deployed ML API',
+        'MLOps: MLflow, DVC, Docker, GitHub Actions',
+        'InsureTech certificate + external certification prep',
+        'Placement team support and peer hackathons',
+        'Lifetime access to LMS materials and recordings'
+      ],
+      whatYouWillLearn: [
+        'Python for DS: core syntax, OOP, file I/O, clean code (PEP 8)',
+        'Mathematics and statistics: linear algebra, probability, inference, hypothesis tests',
+        'NumPy, Pandas, Polars; EDA, feature engineering, visualisation (Matplotlib, Seaborn, Plotly)',
+        'Supervised learning: regression, classification, ensembles, XGBoost/LightGBM/CatBoost, tuning',
+        'Unsupervised learning: clustering, PCA, recommendations, anomaly detection',
+        'Deep learning: ANNs, CNNs, RNNs/LSTM, transfer learning',
+        'NLP: SpaCy, Hugging Face Transformers, BERT/GPT-style models',
+        'Computer vision: OpenCV, YOLO-style detection, augmentation',
+        'Time series: ARIMA, Prophet, LSTM forecasting',
+        'MLOps: Flask, FastAPI, Docker, MLflow, DVC, cloud deployment (SageMaker, Azure ML, Vertex AI)'
+      ],
+      prerequisites: [
+        'Graduate in any stream (B.Tech / BCA / BSc / B.Com / BA / MBA)',
+        'Basic computer literacy; no programming required for the Beginner track',
+        'Logical thinking and willingness to practise daily',
+        'Optional: any programming basics or Excel — free Python & Maths bootcamp for enrolled students'
+      ],
+      whoCanJoin: [
+        'Freshers and graduates starting a data science career',
+        'IT professionals transitioning to Data Scientist or ML Engineer roles',
+        'Analysts and BI professionals moving to predictive analytics',
+        'Domain experts in healthcare, finance, marketing adding ML skills'
+      ],
+      distinctness:
+        'Unlike unstructured online playlists, this programme pairs rigorous fundamentals with deployment-ready projects, GenAI-augmented workflows, and career services so you can present a credible GitHub and Kaggle profile to employers.'
+    },
+    modules: [
+      {
+        title: '1. Python for Data Science',
+        topics: [
+          'Anaconda, Jupyter, VS Code, Colab',
+          'Core Python: types, collections, control flow, comprehensions',
+          'Functions, lambda, map/filter/reduce, decorators',
+          'OOP: classes, inheritance, polymorphism',
+          'File I/O: CSV, JSON, Excel; error handling and PEP 8',
+          'Project: web scraper and data cleaner'
+        ]
+      },
+      {
+        title: '2. Mathematics & Statistics for Data Science',
+        topics: [
+          'Linear algebra: vectors, matrices, eigenvalues',
+          'Calculus: gradients and chain rule (intuition for ML)',
+          'Probability, Bayes, distributions',
+          'Descriptive and inferential statistics; hypothesis testing',
+          'Project: EDA with statistical inference'
+        ]
+      },
+      {
+        title: '3. Data Wrangling & Exploratory Data Analysis',
+        topics: [
+          'NumPy arrays and broadcasting',
+          'Pandas: DataFrames, merge, groupby, pivot',
+          'Missing data and outliers; feature engineering',
+          'Matplotlib, Seaborn; Plotly and Streamlit',
+          'Project: full EDA and data story'
+        ]
+      },
+      {
+        title: '4. Machine Learning — Supervised Learning',
+        topics: [
+          'ML pipeline: prep, selection, evaluation, tuning',
+          'Regression and classification algorithms',
+          'Ensembles and gradient boosting',
+          'Metrics: ROC-AUC, RMSE, R²; GridSearchCV, RandomSearchCV, Optuna',
+          'Project: churn or house price prediction end-to-end'
+        ]
+      },
+      {
+        title: '5. Machine Learning — Unsupervised Learning',
+        topics: [
+          'Clustering: K-Means, DBSCAN, hierarchical',
+          'PCA, t-SNE, UMAP',
+          'Association rules; anomaly detection',
+          'Recommendation systems; LDA overview',
+          'Project: segmentation and recommendation engine'
+        ]
+      },
+      {
+        title: '6. Deep Learning & Neural Networks',
+        topics: [
+          'Perceptron, activations, backpropagation',
+          'Keras/TensorFlow ANNs; optimisers and regularisation',
+          'CNNs for images; RNNs, LSTMs, GRUs',
+          'Transfer learning: VGG, ResNet, EfficientNet',
+          'Project: image classification and LSTM sentiment'
+        ]
+      },
+      {
+        title: '7. Natural Language Processing',
+        topics: [
+          'Tokenisation, stemming, lemmatisation; BoW, TF-IDF',
+          'Word2Vec, GloVe, FastText',
+          'NER with SpaCy; sentiment and classification',
+          'Transformers, BERT, GPT intuition',
+          'Hugging Face fine-tuning',
+          'Project: news classification and chatbot'
+        ]
+      },
+      {
+        title: '8. Computer Vision',
+        topics: [
+          'OpenCV: filters and transforms',
+          'Object detection: YOLO, SSD, Faster R-CNN (concepts)',
+          'Segmentation; face detection',
+          'GANs overview; augmentation',
+          'Project: real-time object detection (e.g. YOLOv8)'
+        ]
+      },
+      {
+        title: '9. Time Series Analysis & Forecasting',
+        topics: [
+          'Trend, seasonality; stationarity and differencing',
+          'ARIMA, SARIMA, exponential smoothing',
+          'Prophet; LSTM forecasting',
+          'Anomaly detection in series',
+          'Project: stock or energy demand forecasting'
+        ]
+      },
+      {
+        title: '10. MLOps & Model Deployment',
+        topics: [
+          'Pickle, Joblib, ONNX',
+          'Flask and FastAPI REST APIs',
+          'Docker; MLflow; DVC',
+          'CI/CD with GitHub Actions',
+          'Cloud: SageMaker, Azure ML, Vertex AI, Streamlit Cloud',
+          'Project: deployed live ML API'
+        ]
+      },
+      {
+        title: '11. Data Visualisation & Storytelling',
+        topics: [
+          'Storytelling principles; Matplotlib and Seaborn',
+          'Plotly Dash and Streamlit dashboards',
+          'Power BI and Tableau essentials for DS',
+          'Presenting to stakeholders',
+          'Project: interactive BI dashboard'
+        ]
+      },
+      {
+        title: '12. Capstone Project & Career Readiness',
+        topics: [
+          'End-to-end capstone: sourcing, EDA, modelling, deployment',
+          'GitHub and Kaggle portfolio',
+          'Mock interviews and ML system design at scale',
+          'Certification prep: Google, IBM, AWS, Azure',
+          'Placement drive and referrals'
+        ]
+      }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Personalised mentoring for projects and deployment.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live online with recordings and weekend batches.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Team programmes for analytics and ML upskilling.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      { title: '12+ Real Projects', icon: '✓', description: 'Including capstone and deployed API.' },
+      { title: 'GenAI-Ready Skills', icon: '🤖', description: 'Use Copilot, ChatGPT, and Transformers in workflow.' },
+      { title: 'Cloud & GPU Labs', icon: '☁️', description: 'Colab and cloud sandboxes for deep learning.' },
+      { title: 'Portfolio & Kaggle', icon: '📁', description: 'Guided GitHub and competition participation.' },
+      { title: 'Placement Assistance', icon: '💼', description: 'Mocks, referrals, and hiring partner network.' },
+      { title: 'Maths from Scratch', icon: '📐', description: 'Module 2 builds intuition without requiring a maths degree.' }
+    ],
+    faqs: [
+      {
+        question: 'Do I need to know Python before joining?',
+        answer:
+          'No. The programme starts from Python basics and includes a free Python & Maths Foundations Bootcamp before the main cohort for enrolled students.'
+      },
+      {
+        question: 'Is the course online?',
+        answer:
+          'Yes — fully live online via Zoom or Google Meet. Recordings are in the LMS within 24 hours. Weekend batches suit working professionals.'
+      },
+      {
+        question: 'What is the weekly time commitment?',
+        answer:
+          'About 8–12 hours per week over six months, including live sessions, assignments, and projects.'
+      },
+      {
+        question: 'What projects will I build?',
+        answer:
+          '12+ projects including churn prediction, house price modelling, NLP sentiment, image tasks, object detection, time series forecasting, and a full deployed ML API — published to GitHub.'
+      },
+      {
+        question: 'Will I get placement support?',
+        answer:
+          'Yes: resume and LinkedIn support, technical and HR mock interviews, job portal access, and referrals. Outcomes depend on your effort and the job market.'
+      },
+      {
+        question: 'What about certifications?',
+        answer:
+          'You earn the InsureTech Skills Data Scientist Professional Certificate and receive preparation guidance for Google Professional ML Engineer, IBM Data Science, AWS ML Specialty, and Azure Data Scientist Associate.'
+      },
+      {
+        question: 'Do I need a powerful GPU laptop?',
+        answer:
+          'A standard laptop (about 8 GB RAM) is enough. Heavy deep learning exercises use Google Colab or provided cloud sandboxes.'
+      }
+    ],
+    duration: '6 Months (200+ Hours)',
+    mode: 'Online',
+    icon: 'azure',
+    heroSubtitle: 'Python Data Science',
+    toolsAndTechnologies: [
+      { name: 'Python & SQL', desc: 'Core stack' },
+      { name: 'NumPy & Pandas', desc: 'Data manipulation' },
+      { name: 'Scikit-learn & XGBoost', desc: 'Classical ML' },
+      { name: 'TensorFlow & PyTorch', desc: 'Deep learning' },
+      { name: 'Hugging Face', desc: 'NLP and Transformers' },
+      { name: 'OpenCV', desc: 'Computer vision' },
+      { name: 'MLflow & DVC', desc: 'MLOps and versioning' },
+      { name: 'Flask & FastAPI', desc: 'Model APIs' },
+      { name: 'Docker', desc: 'Container deployment' },
+      { name: 'AWS / Azure / GCP', desc: 'Cloud ML services' }
+    ]
   }
+
 };
 
 export function getCourseBySlug(slug) {
@@ -5646,7 +7347,6 @@ const ADDITIONAL_ENROLLABLE_COURSES = [
   'GRC Training',
   'Certified Information Systems Security Professional Training (CISSP)',
   'Microsoft Azure Data Scientist Training',
-  'Tableau Certified Data Analyst Training',
   'Java Training',
   'Angular Training',
 ];
@@ -5666,6 +7366,8 @@ const TITLE_ALIASES = {
   'Multi-Cloud Security (AWS, Azure & Google)': 'multi-cloud-security-aws-azure-google',
   'Leading SAFe® 6.0 Agilist Certification Training': 'leading-safe-agilist-certification-training',
   'Leading SAFe 6.0 Agilist Certification Training': 'leading-safe-agilist-certification-training',
+  'Digital Marketing Training with AI Integrated': 'digital-marketing-training-with-ai-integrated',
+  'Digital Marketing Training with AI Integrated (On-Page SEO 2026)': 'digital-marketing-training-with-ai-integrated',
   // Header dropdown uses "Cybersecurity Analyst Training" (no space) while the course title is
   // "Cyber Security Analyst Training" – map this nav label to the correct course slug.
   'Cybersecurity Analyst Training': 'cyber-security-analyst-training',
@@ -5675,6 +7377,9 @@ const TITLE_ALIASES = {
   'Microsoft Fabric Analytics Engineer Associate': 'microsoft-fabric-analytics-engineer-associate-dp-600',
   // Database category label includes the certification name; our course page uses the Azure SQL Solution title.
   'Microsoft DP-300 – Azure Database Administrator Associate': 'microsoft-azure-sql-solution-training',
+  'Tableau Certified Data Analyst Training': 'tableau-data-analyst-training',
+  'Databricks Associate Training': 'databricks-associate-training',
+  'AWS AI Practitioner': 'aws-ai-practitioner-training',
 };
 
 /** Get course slug by exact title (for nav links to course detail page). */
