@@ -972,7 +972,7 @@ export const courses = {
 
   'multi-cloud-devops-generative-ai': {
     slug: 'multi-cloud-devops-generative-ai',
-    title: 'Multi-Cloud DevOps with Generative AI',
+    title: 'Multi Cloud Devops with Generative AI | AWS•Azure•GCP',
     category: 'DevOps & Cloud',
     heroDescription: 'This advanced training program provides learners with hands-on expertise in multi-cloud DevOps engineering combined with Generative AI automation. It covers infrastructure automation, CI/CD pipelines, Kubernetes orchestration, AI integration, and modern MLOps workflows—empowering engineers to design, deploy, and manage intelligent, automated, multi-cloud environments.',
     callToAction: 'Launch Your Career in Multi-Cloud DevOps',
@@ -989,8 +989,8 @@ export const courses = {
     ],
     description: {
       overview: 'DevOps Training Program equips learners to Master AI-integrated DevOps across the software delivery lifecycle with hands-on skills in building intelligent, automated, and secure pipelines. This DevOps course covers Git, Jenkins, Terraform, Ansible, Docker, Kubernetes, and monitoring, while integrating AI for code generation, testing, and analytics. Gain real-world experience by building scalable, AI powered CI/CD pipelines for future-ready DevOps.',
-      whyChoose: 'The Multi-Cloud DevOps with Generative AI program is designed for IT professionals, developers, and cloud engineers who want to master the next generation of DevOps workflows. You\'ll learn how to build and manage applications across multiple cloud environments, use AI-driven tools to accelerate deployment, monitoring, and optimization, integrate Generative AI models into DevOps pipelines for intelligent automation, and implement CI/CD, IaC (Infrastructure as Code), and AIOps across platforms.',
-      whyChooseTitle: 'Why choose Multi-Cloud DevOps with Generative AI from InsureTech Skills?',
+      whyChoose: 'The Multi Cloud Devops with Generative AI | AWS•Azure•GCP program is designed for IT professionals, developers, and cloud engineers who want to master the next generation of DevOps workflows. You\'ll learn how to build and manage applications across multiple cloud environments, use AI-driven tools to accelerate deployment, monitoring, and optimization, integrate Generative AI models into DevOps pipelines for intelligent automation, and implement CI/CD, IaC (Infrastructure as Code), and AIOps across platforms.',
+      whyChooseTitle: 'Why choose Multi Cloud Devops with Generative AI | AWS•Azure•GCP from InsureTech Skills?',
       keyFeatures: [
         '40 Hours of Live Online Sessions',
         'Learn DevOps with Gen AI',
@@ -1036,7 +1036,7 @@ export const courses = {
         'Students & Fresh Graduates (Tech Background)',
         'Technology Consultants & Solution Architects'
       ],
-      distinctness: 'Open to anyone eager to learn Multi-Cloud DevOps with Generative AI. Access to a comprehensive training library and practical resources. Focuses on real-world skills, not just certification. Builds expertise in designing and scaling cloud solutions across 70+ AWS services.'
+      distinctness: 'Open to anyone eager to learn Multi Cloud Devops with Generative AI | AWS•Azure•GCP. Access to a comprehensive training library and practical resources. Focuses on real-world skills, not just certification. Builds expertise in designing and scaling cloud solutions across 70+ AWS services.'
     },
     modules: [
       {
@@ -1193,8 +1193,8 @@ export const courses = {
     ],
     faqs: [
       {
-        question: 'Why should I opt for the Multi-Cloud DevOps with Generative AI course?',
-        answer: 'Multi-Cloud DevOps with Generative AI provides hands-on expertise in multi-cloud DevOps engineering combined with Generative AI automation. With high demand for multi-cloud and AI-enabled professionals, this certification significantly enhances your career prospects and opens doors to roles in DevOps, cloud engineering, and AIOps.'
+        question: 'Why should I opt for the Multi Cloud Devops with Generative AI | AWS•Azure•GCP course?',
+        answer: 'Multi Cloud Devops with Generative AI | AWS•Azure•GCP provides hands-on expertise in multi-cloud DevOps engineering combined with Generative AI automation. With high demand for multi-cloud and AI-enabled professionals, this certification significantly enhances your career prospects and opens doors to roles in DevOps, cloud engineering, and AIOps.'
       },
       {
         question: 'How does this certification course help me?',
@@ -1339,7 +1339,7 @@ export const courses = {
 
   'cyber-security-analyst-training': {
     slug: 'cyber-security-analyst-training',
-    title: 'Cyber Security Analyst Training',
+    title: 'AI Powered Cybersecurity Analyst Training',
     category: 'IT Security',
     heroDescription: 'Hands-on lab experience and real-world projects. 30 Hour Live Virtual Training with industry-experienced instructors. Classes available on weekends and weekdays. Designed for IT Professionals, Security Architects, Network Administrators, Ethical Hackers, System Administrators, Vulnerability Analysts, Threat Intelligence Analysts, and Cybersecurity Consultants. Master key concepts in Risk Management, Incident Response, Vulnerability Management, and Cyber Threat Intelligence.',
     heroBannerImage: '/course-banners/cyber-security-analyst.png',
@@ -1351,8 +1351,8 @@ export const courses = {
       'Classes available on weekends and weekdays'
     ],
     description: {
-      whyChooseTitle: 'Why choose Cyber Security Analyst Training from InsureTech Skills?',
-      overview: 'Our Cyber Security Analyst Training is designed to equip you with the skills to identify threats, manage vulnerabilities, secure networks, and protect endpoints. You will learn networking concepts, threat and vulnerability management, network security and defensive techniques, cloud concepts and security, endpoint security, and risk management and security governance. The program uses industry tools including Nessus, Splunk, Wireshark, Nikto, CMSeek, OWASP ZAP, Burp Suite, Windows Firewall, and Windows Defender.',
+      whyChooseTitle: 'Why choose Cybersecurity Analyst Training | Powered by AI from InsureTech Skills?',
+      overview: 'Our Cybersecurity Analyst Training | Powered by AI is designed to equip you with the skills to identify threats, manage vulnerabilities, secure networks, and protect endpoints. You will learn networking concepts, threat and vulnerability management, network security and defensive techniques, cloud concepts and security, endpoint security, and risk management and security governance. The program uses industry tools including Nessus, Splunk, Wireshark, Nikto, CMSeek, OWASP ZAP, Burp Suite, Windows Firewall, and Windows Defender.',
       whyChoose: 'Gain hands-on experience with real-world projects and lab exercises. Learn from industry-experienced instructors with flexible weekend and weekday classes. The curriculum aligns with the role of a Cybersecurity Analyst and covers risk management, incident response, vulnerability management, and cyber threat intelligence.',
       keyFeatures: [
         'Hands-on lab experience and real-world projects',
@@ -1484,7 +1484,7 @@ export const courses = {
       { title: 'Industry Tools', icon: '🔧', description: 'Nessus, Splunk, Wireshark, OWASP ZAP, Burp Suite, and more' }
     ],
     faqs: [
-      { question: 'Why should I opt for the Cyber Security Analyst Training course?', answer: 'This course equips you with hands-on lab experience and real-world projects to become a job-ready Cybersecurity Analyst. You will learn threat and vulnerability management, network security, endpoint security, cloud security, and risk management using industry tools like Nessus, Wireshark, and Burp Suite. Classes are available on weekends and weekdays with industry-experienced instructors.' },
+      { question: 'Why should I opt for the Cybersecurity Analyst Training | Powered by AI course?', answer: 'This course equips you with hands-on lab experience and real-world projects to become a job-ready Cybersecurity Analyst. You will learn threat and vulnerability management, network security, endpoint security, cloud security, and risk management using industry tools like Nessus, Wireshark, and Burp Suite. Classes are available on weekends and weekdays with industry-experienced instructors.' },
       { question: 'Who is this course designed for?', answer: 'The course is designed for IT Professionals, Security Architects, Network Administrators, Ethical Hackers, System Administrators, Vulnerability Analysts, Threat Intelligence Analysts, and Cybersecurity Consultants.' },
       { question: 'Which tools are used in the course?', answer: 'Tools used include Nessus (vulnerability scanning), Splunk (SIEM/log aggregation), Wireshark (network traffic analysis), Nikto and CMSeek (web server testing), OWASP ZAP and Burp Suite (web app security testing), and Windows Firewall and Defender (endpoint protection).' },
       { question: 'What topics are covered?', answer: 'The curriculum covers Introduction to Cybersecurity, Networking Concepts, Threat & Vulnerability Management, Network Security & Defensive Techniques, Cloud Concepts & Security, Endpoint Security, and Risk Management & Security Governance. Each module includes relevant lab tools and hands-on exercises.' },
@@ -1839,7 +1839,7 @@ export const courses = {
 
   'certified-ethical-hacker-ceh-training': {
     slug: 'certified-ethical-hacker-ceh-training',
-    title: 'Certified Ethical Hacker (CEH) Training',
+    title: 'CEH v13 Training',
     category: 'IT Security',
     heroDescription: 'A deep dive into cybersecurity and ethical hacking with our Certified Ethical Hacker (CEH) Training. Achieve digital mastery over AI-driven cybersecurity techniques, gain insights into countering cyber threats and vulnerabilities, learn advanced AI-driven processes and tools to strengthen defenses, and leverage preventative countermeasures to protect organizations. 30 Hour Live virtual training with hands-on learning and real-world case studies.',
     callToAction: 'Acquire expertise in ethical hacking and promote your cybersecurity career',
@@ -4325,9 +4325,215 @@ export const courses = {
     icon: 'devops',
     heroSubtitle: 'React Js'
   },
+
+  'full-stack-web-development-mern-genai-2026': {
+    slug: 'full-stack-web-development-mern-genai-2026',
+    title: 'Full-Stack Web Development (MERN + GenAI 2026)',
+    category: 'Web Development',
+    heroDescription:
+      'A comprehensive roadmap to becoming a modern full-stack developer. This programme blends the MERN stack (MongoDB, Express, React, Node.js) with Generative AI and Cursor AI so you can build, secure, and deploy high-performance applications—the way teams ship in 2026.',
+    heroBannerImage: '/course-banners/react-js-training.png',
+    callToAction: 'Start building with MERN + GenAI',
+    highlights: [
+      'COURSE SYLLABUS: FULL-STACK WEB DEVELOPMENT (MERN + GENAI 2026)',
+      'Lead Trainer: Moksh Sarda · 90+ Hours of On-Demand Content',
+      'Technical Stack: MongoDB, Express, React, Node.js, Cursor AI, GenAI',
+      '10x productivity toolkit: Cursor AI, ChatGPT, Claude, MERN, Stripe, Cloudinary, Git/GitHub',
+      '15+ hands-on projects including AI SaaS, MERN tracker, blog CMS, auth app, task manager',
+      'Certificate of Completion · portfolio-ready cloud-hosted projects'
+    ],
+    description: {
+      whyChooseTitle: 'Why choose Full-Stack Web Development (MERN + GenAI 2026) from InsureTech Skills?',
+      overview:
+        'COURSE SYLLABUS: FULL-STACK WEB DEVELOPMENT (MERN + GENAI 2026)\nLead Trainer: Moksh Sarda\nCourse Duration: 90+ Hours of On-Demand Content\nTechnical Stack: MongoDB, Express, React, Node.js, Cursor AI, GenAI',
+      whyChoose:
+        'You learn full-stack delivery end-to-end—modern React UI, secure Express APIs, MongoDB data modeling, and GenAI-assisted development with Cursor—so you can ship real features faster while keeping security and scalability in focus.',
+      keyFeatures: [
+        'AI Power Tools: Cursor AI (The AI-first Code Editor), ChatGPT & Claude (Prompt Engineering)',
+        'Frontend: React.js, Redux Toolkit, React Query, HTML5, CSS3, Bootstrap 5',
+        'Backend & Logic: Node.js, Express.js, JavaScript (ES6+)',
+        'Database & Storage: MongoDB, Mongoose (Data Modeling), Cloudinary (Media)',
+        'DevOps & Services: Git/GitHub, Stripe (Payments), Postman, Geolocation APIs',
+        '15+ capstone projects: AI SAAS (ChatGPT API & Stripe), MERN income/expense tracker, blog CMS, auth app, task manager'
+      ],
+      whatYouWillLearn: [
+        'GenAI & Cursor: prompts for code generation, debugging, refactoring; AI-pair programming with Cursor (The AI-first Code Editor)',
+        'Frontend: ES6+, React (components, props, state, hooks), responsive UI with Flexbox/Grid and Bootstrap 5',
+        'Backend: Node.js/Express, REST APIs, JWT & password hashing, Multer & Cloudinary file uploads',
+        'Database: MongoDB & Mongoose—document storage, schemas, validation, indexing',
+        'DevOps & integrations: Git/GitHub, Stripe, Postman, Geolocation APIs',
+        'Capstone-style delivery: AI SAAS, MERN income/expense tracker, full-stack blog, auth portal, task manager',
+        'Final outcome: Certificate of Completion in Full-Stack Development; 15+ live cloud projects; 2026 AI tooling for software engineering'
+      ],
+      prerequisites: [
+        'Comfort with basic computer literacy and willingness to learn in a fast-paced, project-driven format',
+        'Familiarity with HTML/CSS basics is helpful',
+        'No prior MERN experience required—we build from fundamentals to production-style apps'
+      ],
+      whoCanJoin: [
+        'Aspiring full-stack developers building a MERN + GenAI portfolio',
+        'Frontend or backend developers leveling up to end-to-end ownership',
+        'Career switchers and graduates targeting modern web engineering roles',
+        'Teams upskilling on MERN, APIs, MongoDB, and AI-assisted development'
+      ],
+      distinctness:
+        'Strategic benefits — For the Company (ROI & Efficiency): 10X Faster Delivery using Cursor AI and Prompting (features in 2 days vs 2 weeks); Enhanced Security via Auth & Data Encryption; Scalable Architecture with Node.js and MongoDB. For the Trainee (Skill Mastery): Full-Stack Independence (UI + logic/database); AI Literacy with 2026 tools; Clean Code Standards for folder structure and documentation.'
+    },
+    modules: [
+      {
+        title: '1. COURSE OVERVIEW & VISION',
+        topics: [
+          'This program is a comprehensive roadmap to becoming a modern Full-Stack Developer. In 2026, coding alone is not enough; this course integrates Generative AI to accelerate the development lifecycle. Trainees will learn to build, secure, and deploy high-performance applications using the industry-standard MERN stack.'
+        ]
+      },
+      {
+        title: '2. THE MODERN DEVELOPER’S TOOLKIT',
+        topics: [
+          'We will master the following tools to ensure 10x productivity:',
+          'AI Power Tools: Cursor AI (The AI-first Code Editor), ChatGPT & Claude (Prompt Engineering).',
+          'Frontend Technologies: React.js, Redux Toolkit, React Query, HTML5, CSS3, Bootstrap 5.',
+          'Backend & Logic: Node.js, Express.js, JavaScript (ES6+).',
+          'Database & Storage: MongoDB, Mongoose (Data Modeling), Cloudinary (Media).',
+          'DevOps & Services: Git/GitHub, Stripe (Payments), Postman, Geolocation APIs.'
+        ]
+      },
+      {
+        title: 'Module 1: The AI-First Developer (Generative AI)',
+        topics: [
+          'Introduction to GenAI: Understanding how AI is transforming programming.',
+          'Prompt Engineering for Developers: Learning to write prompts for code generation, debugging, and refactoring.',
+          'Cursor AI Mastery: Using the world’s leading AI IDE to build projects faster.',
+          'Project: Building an AI Content Detector using AI-pair programming.'
+        ]
+      },
+      {
+        title: 'Module 2: Frontend Excellence (React & Responsive UI)',
+        topics: [
+          'Modern JavaScript: ES6+ Syntax, DOM Manipulation, and Asynchronous JS.',
+          'React Basics to Pro: Components, Props, State Management, and Hooks (useState, useEffect).',
+          'Advanced UI: Responsive Design using Flexbox/Grid and Bootstrap 5.',
+          'Project: Building a Professional React Portfolio and an Image Gallery App.'
+        ]
+      },
+      {
+        title: 'Module 3: Backend Engineering & API Design (Node.js/Express)',
+        topics: [
+          'Server Setup: Understanding the Node.js runtime and Express middleware.',
+          'RESTful APIs: Designing scalable endpoints for data retrieval and submission.',
+          'Security: Mastering Authentication & Authorization (JWT & Password Hashing).',
+          'File Management: Master file uploads using Multer & Cloudinary.',
+          'Project: Developing an Employees Database API.'
+        ]
+      },
+      {
+        title: 'Module 4: Database Intelligence (MongoDB)',
+        topics: [
+          'NoSQL Fundamentals: Understanding document-based storage.',
+          'Data Modeling: Designing complex schemas with Mongoose.',
+          'Advanced Logic: Error handling, data validation, and indexing for speed.'
+        ]
+      },
+      {
+        title: '4. MAJOR CAPSTONE PROJECTS',
+        topics: [
+          'The course is 100% hands-on, featuring 15+ projects, including:',
+          'AI SAAS Application: A full-scale project using ChatGPT API & Stripe Payments.',
+          'Income & Expenses Tracker: A financial management tool built with the MERN stack.',
+          'Full-Stack Blog App: A content management system with image uploads.',
+          'Real-World Authentication App: A secure portal built from scratch.',
+          'Task Manager: A productivity tool using LocalStorage and Backend sync.'
+        ]
+      },
+      {
+        title: '5. STRATEGIC BENEFITS',
+        topics: [
+          'For the Company (ROI & Efficiency)',
+          '10X Faster Delivery: By utilizing Cursor AI and Prompting, the team can deliver features in 2 days that previously took 2 weeks.',
+          'Enhanced Security: Direct training on Auth & Data Encryption protects company and client data.',
+          'Scalable Architecture: Using Node.js and MongoDB ensures the company’s platforms can scale to millions of users.',
+          'For the Trainee (Skill Mastery)',
+          'Full-Stack Independence: Ability to handle both the UI (Frontend) and the Logic/Database (Backend).',
+          'AI Literacy: Mastering the tools of 2026, making the developer future-proof.',
+          'Clean Code Standards: Learning industry best practices for folder structure and documentation.'
+        ]
+      },
+      {
+        title: '6. FINAL OUTCOME',
+        topics: [
+          'By the end of this training, the participant will have:',
+          'A Certificate of Completion in Full-Stack Development.',
+          'A portfolio of 15+ live projects hosted on the cloud.',
+          'Expertise in the latest 2026 AI tools for software engineering.'
+        ]
+      }
+    ],
+    learningModes: [
+      { title: '1-TO-1 TRAINING', icon: '👥', description: 'Customized schedule, personalised support.', buttonText: 'GET STARTED' },
+      { title: 'ONLINE TRAINING', icon: '💻', description: 'Live virtual training by experienced trainers.', buttonText: 'ENROLL NOW' },
+      { title: 'CORPORATE TRAINING', icon: '🏢', description: 'Customized corporate training for teams.', buttonText: 'CONTACT US' }
+    ],
+    benefits: [
+      {
+        title: '10X Faster Delivery (Company)',
+        icon: '✓',
+        description: 'Cursor AI & Prompting—deliver in 2 days what used to take 2 weeks.'
+      },
+      {
+        title: 'Enhanced Security (Company)',
+        icon: '🔒',
+        description: 'Auth & Data Encryption training to protect company and client data.'
+      },
+      {
+        title: 'Scalable Architecture (Company)',
+        icon: '📈',
+        description: 'Node.js and MongoDB platforms that can scale to millions of users.'
+      },
+      {
+        title: 'Full-Stack Independence (Trainee)',
+        icon: '🧩',
+        description: 'UI (Frontend) plus Logic/Database (Backend) in one skill set.'
+      },
+      {
+        title: 'AI Literacy & Clean Code (Trainee)',
+        icon: '🤖',
+        description: '2026-ready tools and industry folder/documentation standards.'
+      }
+    ],
+    faqs: [
+      {
+        question: 'What is the duration and format?',
+        answer:
+          'The programme includes 90+ hours of on-demand content, organized into guided modules, labs, and portfolio projects. Delivery options include online and tailored corporate batches.'
+      },
+      {
+        question: 'Who is the lead trainer?',
+        answer: 'The lead trainer for this programme is Moksh Sarda.'
+      },
+      {
+        question: 'What stack and tools are covered?',
+        answer:
+          'MongoDB, Express, React, Node.js (MERN), plus Cursor AI and Generative AI workflows (ChatGPT & Claude), Git/GitHub, Postman, Stripe, Cloudinary, and related services.'
+      },
+      {
+        question: 'What will I build?',
+        answer:
+          'The course is 100% hands-on with 15+ projects, including: an AI SAAS Application (ChatGPT API & Stripe Payments); an Income & Expenses Tracker (MERN); a Full-Stack Blog App (CMS with image uploads); a Real-World Authentication App; and a Task Manager (LocalStorage and backend sync).'
+      },
+      {
+        question: 'What outcomes can I expect?',
+        answer:
+          'By the end, you should be able to ship full-stack MERN applications with GenAI-assisted workflows, present a strong cloud-hosted portfolio, and apply modern security and data modeling practices.'
+      }
+    ],
+    duration: '90+ Hours',
+    mode: 'On-Demand',
+    icon: 'devops',
+    heroSubtitle: 'MERN + GenAI'
+  },
+
   'microsoft-fabric-analytics-engineer-associate-dp-600': {
     slug: 'microsoft-fabric-analytics-engineer-associate-dp-600',
-    title: 'Microsoft Fabric Analytics Engineer Associate (DP-600)',
+    title: 'DP 600 Microsoft Fabric Training',
     category: 'Data Engineering',
     heroDescription:
       'This programme provides deep, hands-on expertise across the entire Microsoft Fabric platform. Microsoft\'s unified analytics solution is built on OneLake. You will design and implement lakehouses, build end-to-end data pipelines, create enterprise semantic models, work with KQL-based real-time analytics, and apply data governance using Microsoft Purview. Every module is aligned to the DP-600 examination and reinforced with guided lab exercises in a real Fabric workspace.',
@@ -6669,7 +6875,7 @@ export const courses = {
   },
   'digital-marketing-training-with-ai-integrated': {
     slug: 'digital-marketing-training-with-ai-integrated',
-    title: 'Digital Marketing Training with AI Integrated',
+    title: 'AI Integrated Digital Marketing Training',
     category: 'Digital Marketing',
     heroDescription:
       'Master modern On-Page SEO with AI-integrated digital marketing strategies. Learn how Google ranks pages, map search intent, write high-impact SEO content, run real website audits, and build a portfolio-ready project with measurable results.',
@@ -7325,16 +7531,43 @@ export const courses = {
 
 };
 
+const DISABLED_COURSE_TITLES = new Set([
+  'Microsoft Azure SQL Solution Training',
+  'Oracle Cloud Infrastructure (OCI)',
+  'Microsoft DP-300 – Azure Database Administrator Associate',
+  'Oracle Database SQL Associate',
+  'Azure Data Fundamentals',
+  'Azure Data Fundamentals Training',
+  'Microsoft Azure Data Fundamental Training',
+  'AI Program Manager (EC-Council)',
+  'AI Specialist with Python – PCEI / PCAI / Advanced Professional',
+  'Certified Cloud Security Professional Training',
+  'CompTIA Sec+ Training',
+  'CompTIA Cloud+ Training',
+]);
+
+function isCourseDisabledByTitle(title) {
+  return DISABLED_COURSE_TITLES.has(title);
+}
+
+function isCourseDisabled(course) {
+  return Boolean(course?.title && isCourseDisabledByTitle(course.title));
+}
+
 export function getCourseBySlug(slug) {
-  return courses[slug] || null;
+  const course = courses[slug];
+  if (!course || isCourseDisabled(course)) return null;
+  return course;
 }
 
 export function getAllCourseSlugs() {
-  return Object.keys(courses);
+  return Object.values(courses)
+    .filter((course) => !isCourseDisabled(course))
+    .map((course) => course.slug);
 }
 
 export function getAllCourses() {
-  return Object.values(courses);
+  return Object.values(courses).filter((course) => !isCourseDisabled(course));
 }
 
 /** All courses that can be selected in the enrollment form (includes courses with detail pages + all courses listed on /courses). */
@@ -7352,41 +7585,71 @@ const ADDITIONAL_ENROLLABLE_COURSES = [
 ];
 
 export function getAllEnrollableCourses() {
-  const fromCourses = Object.values(courses).map((c) => ({ slug: c.slug, title: c.title }));
+  const fromCourses = Object.values(courses)
+    .filter((c) => !isCourseDisabled(c))
+    .map((c) => ({ slug: c.slug, title: c.title }));
   const existingTitles = new Set(fromCourses.map((c) => c.title));
-  const additional = ADDITIONAL_ENROLLABLE_COURSES.filter((t) => !existingTitles.has(t)).map((title) => ({
-    slug: title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
-    title,
-  }));
+  const additional = ADDITIONAL_ENROLLABLE_COURSES
+    .filter((t) => !isCourseDisabledByTitle(t) && !existingTitles.has(t))
+    .map((title) => ({
+      slug: title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
+      title,
+    }));
   return [...fromCourses, ...additional];
 }
 
 /** Display titles used in nav/dropdown that differ from course.title (nav title -> slug). */
 const TITLE_ALIASES = {
   'Multi-Cloud Security (AWS, Azure & Google)': 'multi-cloud-security-aws-azure-google',
+  'Multi-Cloud Security with Gen AI Training | AWS, Azure & GCP': 'multi-cloud-security-aws-azure-google',
   'Leading SAFe® 6.0 Agilist Certification Training': 'leading-safe-agilist-certification-training',
   'Leading SAFe 6.0 Agilist Certification Training': 'leading-safe-agilist-certification-training',
   'Digital Marketing Training with AI Integrated': 'digital-marketing-training-with-ai-integrated',
+  'AI Integrated Digital Marketing Training': 'digital-marketing-training-with-ai-integrated',
   'Digital Marketing Training with AI Integrated (On-Page SEO 2026)': 'digital-marketing-training-with-ai-integrated',
-  // Header dropdown uses "Cybersecurity Analyst Training" (no space) while the course title is
-  // "Cyber Security Analyst Training" – map this nav label to the correct course slug.
+  'SEO Training': 'digital-marketing-training-with-ai-integrated',
+  'PPC Training': 'digital-marketing-training-with-ai-integrated',
+  'Social Media Marketing Training': 'digital-marketing-training-with-ai-integrated',
+  'Content Marketing Training': 'digital-marketing-training-with-ai-integrated',
+  'Email Marketing Training': 'digital-marketing-training-with-ai-integrated',
+  'Affiliate Marketing Training': 'digital-marketing-training-with-ai-integrated',
+  // Support both older and updated display labels for this course.
   'Cybersecurity Analyst Training': 'cyber-security-analyst-training',
+  'Cybersecurity Analyst Training | Powered by AI': 'cyber-security-analyst-training',
+  'AI Powered Cybersecurity Analyst Training': 'cyber-security-analyst-training',
   // Database category uses a shorter nav label that should point to the full Azure Data Fundamentals course.
   'Azure Data Fundamentals': 'microsoft-azure-data-fundamental-training',
   // Big Data category label omits the DP-600 suffix.
   'Microsoft Fabric Analytics Engineer Associate': 'microsoft-fabric-analytics-engineer-associate-dp-600',
+  'Microsoft Fabric Analytics Engineer Associate (DP-600)': 'microsoft-fabric-analytics-engineer-associate-dp-600',
+  'DP 600 Microsoft Fabric Training': 'microsoft-fabric-analytics-engineer-associate-dp-600',
   // Database category label includes the certification name; our course page uses the Azure SQL Solution title.
   'Microsoft DP-300 – Azure Database Administrator Associate': 'microsoft-azure-sql-solution-training',
   'Tableau Certified Data Analyst Training': 'tableau-data-analyst-training',
   'Databricks Associate Training': 'databricks-associate-training',
   'AWS AI Practitioner': 'aws-ai-practitioner-training',
+  'AWS Solutions Architect Training': 'aws-solution-architect-training',
+  'Multi Cloud Devops with Generative AI | AWS•Azure•GCP': 'multi-cloud-devops-generative-ai',
+  'Certified Information Systems Security Professional (CISSP) Training':
+    'certified-information-systems-security-professional-training-cissp',
+  'Certified Ethical Hacker (CEH v13) Training': 'certified-ethical-hacker-ceh-training',
+  'CEH v13 Training': 'certified-ethical-hacker-ceh-training',
+  'BigQuery & Data Analytics Fundamentals': 'google-professional-cloud-architect-training',
+  'Azure AI Engineer Associate': 'microsoft-azure-data-scientist-training',
+  'Java Training': 'selenium-java-training',
+  'AWS Machine Learning – Specialty': 'aws-certified-machine-learning-engineer-associate-mlc01',
+  'Data Engineer Professional Training': 'data-engineer-professional-training',
+  'Python Data Scientist Training': 'python-data-scientist-training',
+  // Nav label used in Web Development mega menu → full MERN + GenAI syllabus course.
+  'Front-End & Back-End Developer Training': 'full-stack-web-development-mern-genai-2026',
 };
 
 /** Get course slug by exact title (for nav links to course detail page). */
 export function getSlugByTitle(title) {
   if (!title) return null;
+  if (isCourseDisabledByTitle(title)) return null;
   const slugFromAlias = TITLE_ALIASES[title];
-  if (slugFromAlias && courses[slugFromAlias]) return slugFromAlias;
+  if (slugFromAlias && courses[slugFromAlias] && !isCourseDisabled(courses[slugFromAlias])) return slugFromAlias;
   const entry = Object.entries(courses).find(([, c]) => c.title === title);
-  return entry ? entry[0] : null;
+  return entry && !isCourseDisabled(entry[1]) ? entry[0] : null;
 }
